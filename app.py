@@ -61,15 +61,8 @@ def predict(image,age,gender,left_right,bone_width,fracture_gap,gap_visibility,b
     probs={class_names[i]:float(fusion_prob[0][i]) for i in range(len(class_names))}
     return class_names[pred],f"{conf:.2f}%",probs
 
-css="""
-.gradio-container{
-background:linear-gradient(135deg,#eef7ff,#d7ebff);
-}
-.hero{
-padding:24px;border-radius:16px;
-background:#1565c0;color:white;text-align:center;
-}
-"""
+with open("style.css", "r") as f:
+    css = f.read()
 
 with gr.Blocks(theme=gr.themes.Soft(),css=css,title="OrthoVision AI") as demo:
     gr.HTML("""
