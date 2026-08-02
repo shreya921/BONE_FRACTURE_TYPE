@@ -50,21 +50,59 @@ def preprocess_metadata(age, gender, left_right, bone_width,
     metadata.extend(bone_vector)
     return np.array(metadata).reshape(1,-1)
 
-def predict(image,age,gender,left_right,bone_width,fracture_gap,gap_visibility,bone_type):
+def predict(image,
+            age,
+            gender,
+            left_right,
+            bone_width,
+            fracture_gap,
+            gap_visibility,
+            bone_type):
+
     global cnn_model
 
+    # Load model only once
     if cnn_model is None:
-    print("Loading CNN model...")
-    cnn_model = load_model(MODEL_PATH)
-    img=preprocess_image(image)
-    meta=preprocess_metadata(age,gender,left_right,bone_width,fracture_gap,gap_visibility,bone_type)
-    cnn_prob=cnn_model.predict(img,verbose=0)
-    xgb_prob=xgb_model.predict_proba(meta)
-    fusion_prob=0.5*cnn_prob+0.5*xgb_prob
-    pred=np.argmax(fusion_prob)
-    conf=float(np.max(fusion_prob))*100
-    probs={class_names[i]:float(fusion_prob[0][i]) for i in range(len(class_names))}
-    return class_names[pred],f"{conf:.2f}%",probs
+        print("Loading CNN model...")
+        cnn_model = load_model(MODEL_PATH)
+
+    # Image preprocessing
+    img = preprocess_image(image)
+
+    # Metadata preprocessing
+    meta = preprocess_metadata(
+        age,
+        gender,
+        left_right,
+        bone_width,
+        fracture_gap,
+        gap_visibility,
+        bone_type
+    )
+
+    # CNN prediction
+    cnn_prob = cnn_model.predict(img, verbose=0)
+
+    # XGBoost prediction
+    xgb_prob = xgb_model.predict_proba(meta)
+
+    # Decision fusion
+    fusion_prob = 0.5 * cnn_prob + 0.5 * xgb_prob
+
+    # Final prediction
+    pred = np.argmax(fusion_prob)
+    conf = float(np.max(fusion_prob)) * 100
+
+    probs = {
+        class_names[i]: float(fusion_prob[0][i])
+        for i in range(len(class_names))
+    }
+
+    return (
+        class_names[pred],
+        f"{conf:.2f}%",
+        probs
+    )
 
 with open("style.css", "r") as f:
     css = f.read()
