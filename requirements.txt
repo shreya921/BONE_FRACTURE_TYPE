@@ -1,0 +1,9 @@
+gradio
+tensorflow
+numpy
+pandas
+opencv-python-headless
+Pillow
+scikit-learn
+xgboost
+joblib
