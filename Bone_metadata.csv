@@ -1,0 +1,1494 @@
+id,age,gender,bone_type,left_right,bone_width,fracture_gap,gap_visibility,fracture_type,primary_observation
+distal_1,18,male,tibia,right,7.11,0,no,distal,near end of tibia
+distal_2,4,male,elbow,left,21.91,0,no,distal,end of humerus
+distal_3,3,male,elbow,left,17.27,0.39,slight,distal,end of humerus
+distal_4,27,male,tibia,right,12.24,8.17,yes,distal,near end of tibia
+distal_5,18,male,humerus,left,45.56,0,no,distal,end of humerus
+distal_6,7,male,elbow,left,72.76,0,no,distal,end of humerus
+distal_7,40,male,tibia,left,12.12,8.87,yes,distal,near end of tibia
+distal_8,37,male,humerus,left,9.52,4.91,slight,distal,end of humerus
+distal_9,70,female,ulna,left,49.07,0,no,distal,end of ulna
+distal_10,4,male,elbow,right,57.89,0,no,distal,end of humerus
+distal_11,4,male,elbow,right,43.01,0,no,distal,end of humerus
+distal_12,15,male,elbow,left,77.7,36.22,yes,distal,end of humerus
+distal_13,17,male,ulna,right,33.87,13.52,yes,distal,end of ulna
+distal_14,32,female,elbow,right,37.38,0,no,distal,end of humerus
+distal_15,18,female,elbow,right,88.57,0,no,distal,end of humerus
+distal_16,34,male,elbow,left,50.01,6.98,yes,distal,end of humerus
+distal_17,8,male,elbow,left,75.57,0,no,distal,end of humerus
+distal_18,2,male,elbow,left,26.45,0,no,distal,end of humerus
+distal_19,8,male,elbow,left,63.62,0,no,distal,end of humerus
+distal_20,5,female,elbow,right,24.69,0,no,distal,end of humerus
+distal_21,7,female,elbow,right,83.71,0,no,distal,end of humerus
+distal_22,16,female,elbow,left,63.64,0,no,distal,end of humerus
+distal_23,13,female,elbow,left,106.2,0,no,distal,end of humerus
+distal_24,2,female,elbow,left,27.65,0,no,distal,end of humerus
+distal_25,27,male,tibia,right,2.1,0.8,slight,distal,near end of tibia
+distal_26,1,male,elbow,left,2.12,0,no,distal,end of humerus
+distal_27,7,female,elbow,left,42.86,0,no,distal,end of humerus
+distal_28,70,female,ulna,left,50.03,0,no,distal,end of ulna
+distal_29,16,male,carpal,left,61.01,0,no,distal,end of ulna
+distal_30,19,male,radius,right,3.11,0.88,slight,distal,broken both end of radius and ulna
+distal_31,38,female,ulna,left,46.1,4.54,slight,distal,end of ulna
+distal_32,25,male,tibia,right,8.07,1.4,slight,distal,near end of tibia
+distal_33,3,female,radius,left,18.17,4.41,slight,distal,end of radius
+distal_34,3,female,radius,left,12.01,3.05,slight,distal,end of radius
+distal_35,4,male,tibia,right,3.62,1.32,slight,distal,near end of tibia
+distal_36,32,male,tibia,right,9.88,1.8,slight,distal,near end of tibia
+distal_37,19,male,tibia,left,8.41,0.94,slight,distal,near end of tibia
+distal_38,34,female,radius,right,19.25,4.09,slight,distal,broken both end of radius and ulna
+distal_39,34,female,radius,right,19.03,5.44,slight,distal,broken both end of radius and ulna
+distal_40,34,female,radius,right,21.62,6.16,slight,distal,broken both end of radius and ulna
+distal_41,17,male,ulna,left,23.87,2.53,slight,distal,end of ulna
+distal_42,55,female,tibia,right,40.41,4.81,slight,distal,near end of tibia
+distal_43,55,female,tibia,right,44.3,2.14,slight,distal,near end of tibia
+distal_44,2,male,radius,left,17.14,1.54,slight,distal,end of radius
+distal_45,48,male,radius,left,25.35,0,no,distal,end of radius
+distal_46,21,male,radius,right,11.7,10.66,yes,distal,broken both end of radius and ulna
+distal_47,4,male,ulna,left,2.88,0,no,distal,end of ulna
+distal_48,55,female,tibia,right,42.83,6.25,slight,distal,near end of tibia
+distal_49,21,male,humerus,right,9.18,2.21,slight,distal,end of humerus
+distal_50,55,female,tibia,right,42.28,3.87,slight,distal,near end of tibia
+distal_51,31,male,radius,right,19.29,2.39,slight,distal,end of radius
+distal_52,21,male,humerus,right,7.55,0,no,distal,end of humerus
+distal_53,31,male,radius,left,18.68,4.07,slight,distal,end of radius
+distal_54,31,male,radius,left,14.82,1.34,slight,distal,broken both end of radius and ulna
+distal_55,52,male,fibula,left,12.5,0,no,distal,end of fibula
+distal_56,33,male,tibia,left,79.78,0,no,distal,near end of tibia
+distal_57,16,male,femur,right,32.45,0,no,distal,end of femur
+distal_58,27,male,tibia,right,4.04,0.58,slight,distal,near end of tibia
+distal_59,16,male,femur,right,31.98,0,no,distal,end of femur
+distal_60,4,male,radius,left,14.42,0,no,distal,end of radius
+distal_61,39,male,ulna,left,17.97,3.5,slight,distal,end of ulna
+distal_62,39,male,ulna,right,16.93,10.91,yes,distal,end of ulna
+distal_63,20,female,ulna,left,23.79,0,no,distal,end of ulna
+distal_64,24,male,tibia,right,15.07,4.19,slight,distal,near end of tibia
+distal_65,24,male,tibia,right,15.1,3.64,slight,distal,near end of tibia
+distal_66,12,male,radius,left,4.17,1.47,slight,distal,broken both end of radius and ulna
+distal_67,47,male,tibia,left,5.71,0,no,distal,near end of tibia
+distal_68,2,male,elbow,right,36.85,0,no,distal,end of humerus
+distal_69,32,male,fibula,right,52.55,10.71,yes,distal,end of fibula
+distal_70,1.5,female,tarsal,left,27.42,0,no,distal,near end of tibia
+distal_71,7,male,tibia,left,32.15,1.11,slight,distal,near end of tibia
+distal_72,31,male,foot,left,18.23,2.58,slight,distal,near end of tibia
+distal_73,75,male,radius,left,37.25,0,no,distal,end of radius
+distal_74,3,male,elbow,right,37.97,5.89,yes,distal,end of humerus
+distal_75,3,male,elbow,right,38.23,6.15,yes,distal,end of humerus
+distal_76,5,female,elbow,right,69.95,3.29,slight,distal,end of humerus
+distal_77,11,male,ulna,right,24.27,0,no,distal,end of ulna
+distal_78,1,male,elbow,right,25.07,0,no,distal,end of humerus
+distal_79,2,male,elbow,right,60.29,0,no,distal,end of humerus
+distal_80,29,female,tibia,right,43.02,6.29,yes,distal,near end of tibia
+distal_81,2,female,elbow,right,54.5,0,no,distal,end of humerus
+distal_82,8,male,tibia,right,54.01,15.11,yes,distal,broken both end of tibia and fibula
+distal_83,1,male,tibia,right,16.67,5.19,yes,distal,broken both end of tibia and fibula
+distal_84,9,male,radius,left,45.55,0,no,distal,end of radius
+distal_85,25,male,carpal,right,20.61,0,no,distal,end of radius
+distal_86,11,male,ulna,left,21.6,4.89,slight,distal,broken both end of radius and ulna
+distal_87,8,female,elbow,right,59.75,0,no,distal,end of humerus
+distal_88,3,male,elbow,right,60.02,0,no,distal,end of humerus
+distal_89,3,male,elbow,right,40.61,2.71,yes,distal,end of humerus
+distal_90,3,male,elbow,right,63.86,0,no,distal,end of humerus
+distal_91,29,female,finger,right,13.25,1.34,slight,distal,end of radius
+distal_92,2,male,elbow,right,29.73,2.04,slight,distal,end of humerus
+distal_93,4,male,elbow,left,61.25,2.73,slight,distal,end of humerus
+distal_94,10,male,humerus,right,26.12,5.3,yes,distal,end of humerus
+distal_95,13,male,elbow,left,51.82,0,no,distal,end of humerus
+distal_96,4,male,elbow,left,49.7,0,no,distal,end of humerus
+distal_97,56,female,tibia,right,51.09,3.47,slight,distal,near end of tibia
+distal_98,56,female,tibia,right,41.43,4.18,slight,distal,near end of tibia
+distal_99,10,male,knee,left,72.6,4.88,slight,distal,end of fibula
+distal_100,2,male,elbow,left,27.91,0,no,distal,end of humerus
+distal_101,8,female,tibia,left,51.04,12.9,yes,distal,near end of tibia
+distal_102,2,male,humerus,left,13.53,0,no,distal,end of humerus
+distal_103,18,male,femur,left,62.57,0,no,distal,end of femur
+distal_104,12,male,radius,right,19.03,0,no,distal,end of radius
+distal_105,1,male,tibia,left,18.49,6.55,yes,distal,near end of tibia
+distal_106,68,male,calcaneus,left,117.3,8.9,yes,distal,near end of tibia
+distal_107,18,male,femur,left,69.4,11.1,yes,distal,end of femur
+distal_108,3,male,elbow,left,45.82,3.66,slight,distal,end of humerus
+distal_109,1,male,ulna,left,12.62,1.29,slight,distal,end of ulna
+distal_110,26,male,carpal,left,16.15,2.02,slight,distal,end of humerus
+distal_111,2,male,elbow,right,40.23,0,no,distal,end of humerus
+distal_112,2,male,elbow,right,38.77,3.61,slight,distal,end of humerus
+distal_113,2,male,elbow,right,37.87,2.29,slight,distal,end of humerus
+distal_114,4,male,elbow,left,32.84,0,no,distal,end of humerus
+distal_115,35,female,fibula,left,46.15,0,no,distal,end of fibula
+distal_116,4,male,elbow,left,71.89,0,no,distal,end of humerus
+distal_117,1,male,ulna,left,12.64,1.12,slight,distal,end of ulna
+distal_118,5,male,radius,left,5.64,1.05,slight,distal,broken both end of radius and ulna
+distal_119,13,male,ulna,left,6.47,1.71,slight,distal,end of ulna
+distal_120,34,male,elbow,left,35.19,8.46,yes,distal,end of humerus
+distal_121,17,male,ulna,right,9.8,3.78,yes,distal,end of ulna
+distal_122,53,male,femur,left,19.4,14.02,yes,distal,end of femur
+distal_123,24,male,radius,left,17.9,3.35,slight,distal,end of radius
+distal_124,1,male,radius,right,8.75,3.69,slight,distal,broken both end of radius and ulna
+distal_125,15,male,radius,right,8.8,3.05,slight,distal,broken both end of radius and ulna
+distal_126,3,male,tibia,left,7.84,1.28,slight,distal,near end of tibia
+distal_127,4,female,humerus,right,29.11,19.48,yes,distal,end of humerus
+distal_128,13,male,radius,right,34.72,0,no,distal,end of radius
+distal_129,2,male,elbow,left,38.95,0,no,distal,end of humerus
+distal_130,7,male,elbow,right,58.12,0,no,distal,end of humerus
+distal_131,8,female,elbow,right,97.9,4.11,slight,distal,end of humerus
+distal_132,5,male,elbow,right,74.1,0,no,distal,end of humerus
+distal_133,13,male,elbow,left,48.46,3.45,slight,distal,end of humerus
+distal_134,5,female,elbow,right,47.04,0,no,distal,end of humerus
+distal_135,7,male,elbow,right,54.19,0,no,distal,end of humerus
+distal_136,8,male,elbow,left,85.38,8.02,yes,distal,end of humerus
+distal_137,56,female,tibia,right,40.35,13.29,yes,distal,near end of tibia
+distal_138,4,male,elbow,right,23.19,2.42,slight,distal,end of humerus
+distal_139,7,female,elbow,right,29.09,1.17,slight,distal,end of humerus
+distal_140,8,male,elbow,left,45.65,0,no,distal,end of humerus
+distal_141,70,female,radius,left,96.65,0,no,distal,end of radius
+distal_142,63,male,humerus,left,78.07,9.51,yes,distal,end of humerus
+distal_143,5,male,elbow,left,20.32,0,no,distal,end of humerus
+distal_144,9,male,elbow,right,57.5,0,no,distal,end of humerus
+distal_145,2,male,elbow,left,35.48,6.47,yes,distal,end of humerus
+distal_146,3,male,elbow,left,52.32,0,no,distal,end of humerus
+distal_147,17,male,elbow,left,59.42,0,no,distal,end of humerus
+distal_148,4,male,elbow,right,47.09,1.07,slight,distal,end of humerus
+distal_149,13,male,elbow,right,86.23,2.62,slight,distal,end of humerus
+distal_150,20,male,elbow,right,78.45,1.35,slight,distal,end of humerus
+distal_151,22,male,elbow,left,50.32,0,no,distal,end of humerus
+distal_152,3,male,radius,right,23.71,0,no,distal,end of radius
+distal_153,27,male,carpal,left,15.32,0.96,slight,distal,end of radius
+distal_154,25,male,radius,left,22.89,0,no,distal,end of radius
+distal_155,5,female,elbow,right,59.06,4.61,yes,distal,end of humerus
+distal_156,5,female,elbow,right,58.79,4.5,yes,distal,end of humerus
+distal_157,10,male,humerus,right,29.37,11.08,yes,distal,end of humerus
+distal_158,2,male,elbow,right,31.93,0,no,distal,end of humerus
+distal_159,4,male,elbow,left,60.5,5.91,yes,distal,end of humerus
+distal_160,2,male,elbow,right,34.86,11.59,yes,distal,end of humerus
+distal_161,13,male,radius,left,41.34,0,no,distal,end of radius
+distal_162,2,male,ulna,right,12.99,3.87,slight,distal,end of radius
+distal_163,21,male,radius,left,11.57,2.2,slight,distal,end of radius
+distal_164,2,male,elbow,right,39.56,0,no,distal,end of humerus
+distal_165,2,male,elbow,right,35.05,3.1,slight,distal,end of humerus
+distal_166,4,male,elbow,left,34.12,0,no,distal,end of humerus
+distal_167,11,male,ulna,left,21.65,3.61,slight,distal,broken both end of radius and ulna
+distal_168,10,male,humerus,right,23.54,10.42,yes,distal,end of humerus
+distal_169,27,male,elbow,right,38.7,0,no,distal,end of humerus
+distal_170,2,male,elbow,right,36.37,5.78,yes,distal,end of humerus
+distal_171,2,male,elbow,left,27.31,0,no,distal,end of humerus
+distal_172,4,female,elbow,right,57.93,0,no,distal,end of humerus
+distal_173,4,male,elbow,left,36.08,0,no,distal,end of humerus
+distal_174,4,male,elbow,left,62.26,3.39,slight,distal,end of humerus
+distal_175,1,female,elbow,left,19.44,0,no,distal,end of humerus
+distal_176,7,male,radius,left,19.34,4.4,slight,distal,end of radius
+distal_177,7,male,ulna,left,15.56,2.38,slight,distal,broken both end of radius and ulna
+distal_178,5,male,elbow,right,43.45,0,no,distal,end of humerus
+distal_179,13,female,elbow,left,38.56,0,no,distal,end of humerus
+distal_180,6,female,knee,left,37.98,0,no,distal,end of femur
+distal_181,10,male,knee,right,77.2,3.32,slight,distal,end of femur
+distal_182,11,male,elbow,left,80.74,2.54,slight,distal,end of humerus
+distal_183,7,male,elbow,left,66.52,0,no,distal,end of humerus
+distal_184,17,male,knee,left,14.11,1.02,slight,distal,end of femur
+distal_185,14,male,knee,left,13.55,0,no,distal,end of femur
+distal_186,22,male,knee,right,18.84,1.73,slight,distal,end of femur
+distal_187,22,male,knee,right,13.43,1.81,slight,distal,end of femur
+distal_188,7,female,humerus,left,4.41,3.27,slight,distal,end of humerus
+distal_189,27,male,tibia,right,6.68,1.65,slight,distal,near end of tibia
+distal_190,27,male,tibia,left,6.69,1.22,slight,distal,near end of tibia
+distal_191,6,male,elbow,right,48.13,0,no,distal,end of humerus
+distal_192,7,male,ulna,left,18.9,4.38,yes,distal,broken both end of radius and ulna
+distal_193,27,male,carpal,left,14.26,1.33,slight,distal,end of radius
+distal_194,7,male,elbow,left,63.47,2.81,slight,distal,end of humerus
+distal_195,19,male,carpal,left,11.09,2.26,slight,distal,end of radius
+distal_196,21,male,carpal,right,6.78,1.83,slight,distal,end of radius
+distal_197,21,male,carpal,right,7.79,3.14,slight,distal,end of radius
+distal_198,14,male,elbow,right,24.27,2.68,slight,distal,end of humerus
+distal_199,15,male,carpal,left,4.96,1.84,slight,distal,end of radius
+distal_200,25,male,carpal,right,13.19,1.48,slight,distal,end of radius
+distal_201,17,male,knee,right,35.74,3.72,slight,distal,end of femur
+distal_202,11,male,ulna,left,19.14,2.38,slight,distal,broken both end of radius and ulna
+distal_203,9,male,radius,right,10.55,2.98,slight,distal,end of radius
+distal_204,9,male,radius,left,17.62,9.75,yes,distal,end of radius
+distal_205,27,male,carpal,right,5.8,1.7,slight,distal,end of radius
+distal_206,27,male,carpal,right,6.3,1.99,slight,distal,end of radius
+distal_207,10,male,tibia,right,8.9,0.92,slight,distal,broken both end of tibia and fibula
+distal_208,14,female,knee,left,14.5,0.95,slight,distal,end of femur
+distal_209,14,female,knee,left,13.97,1.5,slight,distal,end of femur
+distal_210,5,female,elbow,right,55.82,0,no,distal,end of humerus
+distal_211,29,male,carpal,left,38.77,0,no,distal,end of radius
+distal_212,9,female,elbow,left,270.93,0,no,distal,end of radius
+distal_213,6,female,elbow,left,144.14,0,no,distal,end of radius
+distal_214,8,male,elbow,right,152.33,0,no,distal,end of radius
+distal_215,8,male,elbow,right,160.28,0,no,distal,end of radius
+distal_216,13,male,tibia,right,182.95,0,no,distal,near end of tibia
+distal_217,40,male,radius,right,95.99,4.49,slight,distal,end of radius
+distal_218,40,male,radius,right,96.99,6.83,yes,distal,end of radius
+distal_219,5,male,elbow,right,54.42,0,no,distal,end of humerus
+distal_220,8,male,radius,left,12.3,3.91,slight,distal,broken both end of radius and ulna
+distal_221,4,male,radius,left,63.5,2.42,slight,distal,broken both end of radius and ulna
+distal_222,9,male,humerus,right,24.21,0,no,distal,end of humerus
+distal_223,3,male,elbow,right,34.18,0,no,distal,end of humerus
+distal_224,4,male,radius,right,21.6,4.57,slight,distal,broken both end of radius and ulna
+distal_225,7,female,elbow,right,83.28,0,no,distal,end of humerus
+distal_226,8,male,elbow,right,66.78,0,no,distal,end of humerus
+distal_227,14,male,tibia,left,46.55,0,no,distal,near end of tibia
+distal_228,4,male,tibia,left,36.72,0,no,distal,near end of tibia
+distal_229,90+,female,femur,right,50.59,13.28,yes,distal,end of femur
+distal_230,8,male,elbow,left,81.98,0,no,distal,end of humerus
+distal_231,5,male,elbow,left,28.78,0,no,distal,end of humerus
+distal_232,1,male,tibia,left,16.86,0.52,slight,distal,near end of tibia
+distal_233,12,male,elbow,right,60.83,0,no,distal,end of humerus
+distal_234,4,male,femur,left,31.19,0,no,distal,end of femur
+distal_235,8,male,radius,left,12.67,0,no,distal,broken both end of radius and ulna
+distal_236,4,male,elbow,right,68.01,2.65,slight,distal,end of humerus
+distal_237,2,male,radius,left,19.9,0.99,slight,distal,broken both end of radius and ulna
+distal_238,9,male,humerus,right,24.2,0,no,distal,end of humerus
+distal_239,3,female,elbow,right,59.74,0,no,distal,end of humerus
+distal_240,4,male,radius,right,17.54,1.8,slight,distal,broken both end of radius and ulna
+distal_241,11,female,radius,left,20.92,1.8,slight,distal,end of radius
+distal_242,13,male,elbow,left,43.07,0,no,distal,end of humerus
+distal_243,4,male,tibia,right,34.85,3.2,slight,distal,near end of tibia
+distal_244,1,female,femur,left,69.51,0,no,distal,end of femur
+distal_245,15,male,elbow,left,61.56,0,no,distal,end of humerus
+distal_246,5,male,elbow,right,51.92,0,no,distal,end of humerus
+distal_247,10,male,elbow,left,59.7,6.24,yes,distal,end of humerus
+distal_248,5,male,elbow,right,60.24,0,no,distal,end of humerus
+distal_249,4,male,elbow,right,71.37,0,no,distal,end of humerus
+distal_250,23,male,radius,right,23.36,4.64,slight,distal,end of radius
+distal_251,30,female,elbow,right,93.6,0,no,distal,end of humerus
+distal_252,5,male,elbow,left,36.94,0,no,distal,end of humerus
+distal_253,14,male,ulna,left,21.47,1.56,slight,distal,broken both end of radius and ulna
+distal_254,7,male,tibia,right,30.92,0,no,distal,near end of tibia
+distal_255,2,male,femur,left,17.91,9.33,yes,distal,end of femur
+distal_256,4,male,elbow,right,34.3,0,no,distal,end of humerus
+distal_257,4,male,elbow,right,68.6,0,no,distal,end of humerus
+distal_258,2,male,elbow,left,46.79,0,no,distal,end of humerus
+distal_259,5,male,elbow,right,47.36,0,no,distal,end of humerus
+distal_260,10,male,elbow,left,51.56,0,no,distal,end of humerus
+distal_261,23,male,ulna,right,21.64,4.92,slight,distal,end of ulna
+distal_262,5,male,humerus,right,21.9,0,no,distal,end of humerus
+distal_263,14,male,ulna,left,19.78,0,no,distal,end of ulna
+distal_264,30,female,elbow,right,49.97,0,no,distal,end of humerus
+distal_265,1,female,radius,left,12.93,0,no,distal,broken both end of radius and ulna
+distal_266,6,male,tibia,right,26.69,0,no,distal,near end of tibia
+distal_267,2,male,femur,left,19.19,0,no,distal,end of femur
+distal_268,4,male,femur,right,23.51,0,no,distal,end of femur
+distal_269,8,male,elbow,left,68.76,0,no,distal,end of humerus
+distal_270,13,male,ulna,left,7.72,2.21,slight,distal,end of ulna
+distal_271,2,male,ulna,right,7.4,4.18,slight,distal,end of ulna
+distal_272,12,female,ulna,left,15.71,2.97,slight,distal,broken both end of radius and ulna
+distal_273,5,male,ulna,right,8.18,2.75,slight,distal,broken both end of radius and ulna
+distal_274,5,male,ulna,right,8.21,2.64,slight,distal,broken both end of radius and ulna
+distal_275,1,female,ulna,left,6.09,0,no,distal,end of ulna
+distal_276,3,male,tibia,left,8.8,0.83,slight,distal,end of tibia
+distal_277,3,male,tibia,right,8.2,1.22,slight,distal,end of tibia
+distal_278,5,male,tibia,left,8.05,1.59,slight,distal,end of tibia
+distal_279,3,female,tibia,left,25.64,0,no,distal,end of tibia
+distal_280,1,male,tibia,left,14.42,0,no,distal,end of tibia
+distal_281,5,male,elbow,left,30.9,0,no,distal,end of humerus
+distal_282,15,male,femur,left,134.9,0,no,distal,end of femur
+distal_283,10,male,elbow,left,54.15,0,no,distal,end of humerus
+distal_284,5,female,elbow,left,49.38,0,no,distal,end of humerus
+distal_285,5,male,elbow,left,73.97,0,no,distal,end of humerus
+distal_286,6,female,elbow,left,40.56,0,no,distal,end of humerus
+distal_287,7,female,elbow,right,50.15,0,no,distal,end of humerus
+distal_288,5,male,elbow,right,25.23,0,no,distal,end of humerus
+distal_289,5,male,elbow,right,26.69,0,no,distal,end of humerus
+distal_290,71,male,radius,left,27.19,8.19,yes,distal,end of radius
+distal_291,71,male,radius,left,24.05,4.89,slight,distal,end of radius
+distal_292,2,male,humerus,left,29.02,0,no,distal,end of humerus
+distal_293,9,male,elbow,right,29.41,0,no,distal,end of humerus
+distal_294,8,male,elbow,right,76.57,0,no,distal,end of humerus
+distal_295,1,male,ulna,left,17.62,0,no,distal,end of ulna
+distal_296,5,female,elbow,left,32.03,0,no,distal,end of humerus
+distal_297,11,female,elbow,left,65.9,0,no,distal,end of humerus
+distal_298,8,male,radius,right,41.4,0,no,distal,end of radius
+distal_299,8,male,radius,right,43.01,0,no,distal,end of radius
+distal_300,7,female,elbow,left,28.77,0,no,distal,end of humerus
+distal_301,8,female,humerus,left,28.87,0,no,distal,end of humerus
+distal_302,8,male,elbow,right,39.38,0,no,distal,end of humerus
+distal_303,5,female,elbow,left,26.36,0,no,distal,end of humerus
+distal_304,11,male,elbow,left,76.6,0,no,distal,end of humerus
+distal_305,1,male,ulna,left,19.84,0,no,distal,end of ulna
+distal_306,11,male,foot,right,30.72,0,no,distal,
+distal_307,7,male,elbow,left,39.21,0,no,distal,end of humerus
+distal_308,10,female,elbow,left,33.34,0,no,distal,end of humerus
+distal_309,6,male,tibia,left,30.81,0,no,distal,end of tabia
+distal_310,7,female,elbow,right,50.49,0,no,distal,end of humerus
+distal_311,8,male,elbow,left,48.05,0,no,distal,end of humerus
+distal_312,6,male,tibia,right,33.07,0,no,distal,end of tabia
+distal_313,7,male,elbow,right,38.27,0,no,distal,end of humerus
+distal_314,10,female,elbow,left,24.25,0,no,distal,end of humerus
+proximal_1,8,male,radius,left,49.45,0,no,proximal,begin of radius
+proximal_2,24,male,ulna,right,6.04,1.68,slight,proximal,begin of ulna
+proximal_3,24,male,ulna,left,7.74,2.63,slight,proximal,begin of ulna
+proximal_4,66,female,humerus,right,22.28,0,no,proximal,begin of humerus
+proximal_5,6,female,ulna,left,24.11,7.57,yes,proximal,begin of ulna
+proximal_6,6,male,humerus,left,8.46,2.45,slight,proximal,begin of humerus
+proximal_7,53,male,humerus,left,19.91,9.12,yes,proximal,begin of humerus
+proximal_8,3,female,tibia,right,19.08,133.52,yes,proximal,begin of tibia
+proximal_9,9,male,ulna,right,4.81,5.12,yes,proximal,begin of ulna
+proximal_10,10,female,ulna,right,20.03,5.57,yes,proximal,broken both begin of radius and ulna
+proximal_11,7,female,humerus,right,51.39,30.72,yes,proximal,begin of humerus
+proximal_12,1,male,humerus,right,10.74,2.8,slight,proximal,begin of humerus
+proximal_13,34,female,femur,right,77.71,0,no,proximal,begin of femur
+proximal_14,23,male,fibula,left,29.6,21.3,slight,proximal,begin of fibula
+proximal_15,1,male,humerus,left,11.36,4.13,slight,proximal,begin of humerus
+proximal_16,7,female,humerus,left,52.39,16.81,yes,proximal,begin of humerus
+proximal_17,14,female,humerus,left,61.55,5.29,yes,proximal,begin of humerus
+proximal_18,6,female,humerus,right,22.34,5.86,yes,proximal,begin of humerus
+proximal_19,11,female,tibia,left,79.37,0,no,proximal,begin of tibia
+proximal_20,8,male,humerus,left,58.24,2.81,slight,proximal,begin of humerus
+proximal_21,3,female,femur,left,44.55,14.23,yes,proximal,begin of femur
+proximal_22,3,female,femur,left,46.41,15.4,yes,proximal,begin of femur
+proximal_23,12,female,femur,left,45.28,24.07,yes,proximal,begin of femur
+proximal_24,3,female,femur,left,44.97,14.55,yes,proximal,begin of femur
+proximal_25,3,female,femur,left,45.24,14.81,yes,proximal,begin of femur
+proximal_26,47,male,tibia,right,9.86,4.47,slight,proximal,broken both begin of tibia and fibula
+proximal_27,26,male,radius,left,26.26,6.93,yes,proximal,begin of radius
+proximal_28,10,male,ulna,left,4.01,6.11,yes,proximal,begin of humerus
+proximal_29,4,male,tibia,right,6.4,1.03,slight,proximal,begin of tibia
+proximal_30,6,female,ulna,left,21.22,7.55,slight,proximal,begin of ulna
+proximal_31,7,male,femur,right,63.56,5.79,yes,proximal,begin of femur
+proximal_32,37,male,radius,right,24.83,9.62,yes,proximal,broken both begin of radius and ulna
+proximal_33,13,male,humerus,right,8.69,2.44,yes,proximal,begin of humerus
+proximal_34,13,male,humerus,right,8.23,1.97,yes,proximal,begin of humerus
+proximal_35,13,male,humerus,right,8.32,1.44,yes,proximal,begin of humerus
+proximal_36,51,male,shoulder,left,11.05,1.5,slight,proximal,begin of humerus
+proximal_37,33,female,femur,left,63.88,0,no,proximal,begin of femur
+proximal_38,33,male,femur,left,49.47,13.54,yes,proximal,begin of femur
+proximal_39,33,female,femur,left,71.91,0,no,proximal,begin of femur
+proximal_40,33,female,femur,left,73.55,0,no,proximal,begin of femur
+proximal_41,34,female,femur,left,72.49,0,no,proximal,begin of femur
+proximal_42,34,female,femur,left,70.03,0,no,proximal,begin of femur
+proximal_43,33,female,femur,left,71.09,0,no,proximal,begin of femur
+proximal_44,35,female,femur,left,71.36,0,no,proximal,begin of femur
+proximal_45,37,male,femur,left,50.36,14.13,yes,proximal,begin of femur
+proximal_46,86,male,hip join,left,106.59,22.61,yes,proximal,begin of femur
+proximal_47,86,female,hip join,right,83.92,31.25,yes,proximal,begin of femur
+proximal_48,86,female,hip join,right,83.39,29.14,yes,proximal,begin of femur
+proximal_49,90+,female,femur,left,18.08,2.21,slight,proximal,begin of femur
+proximal_50,2,female,femur,left,32.42,0,no,proximal,begin of femur
+proximal_51,32,male,tibia,left,52.57,20.56,yes,proximal,begin of tibia
+proximal_52,32,male,tibia,right,52.27,16.04,yes,proximal,begin of tibia
+proximal_53,32,male,tibia,right,67.94,12.47,yes,proximal,begin of tibia
+proximal_54,32,male,tibia,right,69.37,12.21,yes,proximal,begin of tibia
+proximal_55,32,male,tibia,right,51.49,18.32,yes,proximal,begin of tibia
+proximal_56,32,male,tibia,right,69.41,8.94,yes,proximal,begin of tibia
+proximal_57,8,male,humerus,right,37.85,7.83,yes,proximal,begin of humerus
+proximal_58,8,male,humerus,right,37.91,5.45,yes,proximal,begin of humerus
+proximal_59,38,male,ulna,left,6.31,1.88,slight,proximal,broken both begin of radius and ulna
+proximal_60,38,male,ulna,left,5.7,1.5,slight,proximal,broken both begin of radius and ulna
+proximal_61,12,male,tibia,right,56.09,0,no,proximal,begin of tibia
+proximal_62,12,male,tibia,right,63,0,no,proximal,begin of tibia
+proximal_63,12,male,tibia,right,57.36,0,no,proximal,begin of tibia
+proximal_64,12,male,tibia,right,58.13,0,no,proximal,begin of tibia
+proximal_65,31,male,tibia,right,86.98,19.23,yes,proximal,begin of tibia
+proximal_66,25,male,fibula,right,4.57,1.93,slight,proximal,begin of fibula
+proximal_67,10,female,ulna,right,15.84,3.97,slight,proximal,broken both begin of radius and ulna
+proximal_68,7,male,tibia,right,44.79,0,no,proximal,begin of tibia
+proximal_69,7,male,tibia,right,42.84,0,no,proximal,begin of tibia
+proximal_70,17,female,metacarpal,right,18.3,1.92,slight,proximal,begin of metacarpal
+proximal_71,17,female,metacarpal,right,17.32,1.89,slight,proximal,begin of metacarpal
+proximal_72,5,male,femur,right,54.76,0,no,proximal,begin of femur
+proximal_73,10,female,radius,left,19.9,7.6,yes,proximal,broken both begin of radius and ulna
+proximal_74,7,male,humerus,left,36.02,14.03,yes,proximal,begin of humerus
+proximal_75,7,male,humerus,left,35.49,14.29,yes,proximal,begin of humerus
+proximal_76,7,male,humerus,left,35.49,18.71,yes,proximal,begin of humerus
+proximal_77,7,male,humerus,left,36.81,18.97,yes,proximal,begin of humerus
+proximal_78,6,male,ulna,left,34.21,7,yes,proximal,begin of ulna
+proximal_79,8,male,humerus,right,38.43,0,no,proximal,begin of humerus
+proximal_80,13,male,humerus,left,7.13,2.89,slight,proximal,begin of humerus
+proximal_81,2,male,femur,left,34.66,7.37,yes,proximal,begin of femur
+proximal_82,21,male,radius,right,26.64,0,no,proximal,broken both begin of radius and ulna
+proximal_83,13,male,humerus,right,7.54,4.1,yes,proximal,begin of humerus
+proximal_84,28,male,ulna,right,33.42,9.62,yes,proximal,begin of ulna
+proximal_85,28,male,ulna,right,33.68,9.75,yes,proximal,begin of ulna
+proximal_86,13,male,humerus,right,7.28,5.16,yes,proximal,begin of humerus
+proximal_87,53,male,tibia,left,49.76,2.85,slight,proximal,begin of tibia
+proximal_88,55,male,tibia,left,29.98,8.66,yes,proximal,begin of tibia
+proximal_89,11,male,ulna,left,15.76,3.2,slight,proximal,broken both begin of radius and ulna
+proximal_90,6,female,femur,right,46.35,5.4,yes,proximal,begin of femur
+proximal_91,9,male,ulna,right,83.39,0,no,proximal,begin of ulna
+proximal_92,17,male,humerus,left,62.69,0,no,proximal,begin of humerus
+proximal_93,17,male,humerus,left,65.6,0,no,proximal,begin of humerus
+proximal_94,22,male,ulna,right,23.97,5.84,yes,proximal,begin of ulna
+proximal_95,27,male,ulna,right,29.59,0,no,proximal,begin of ulna
+proximal_96,5,male,radius,right,44.4,2.64,slight,proximal,begin of radius
+proximal_97,8.5,male,shoulder,left,60.61,2.71,slight,proximal,begin of humerus
+proximal_98,6,male,humerus,left,55.65,4.37,slight,proximal,begin of humerus
+proximal_99,4,female,tibia,right,20.83,10.8,yes,proximal,begin of tibia
+proximal_100,11,male,radius,left,19.08,2.63,slight,proximal,broken both begin of radius and ulna
+proximal_101,7,female,tibia,right,47.22,5.52,yes,proximal,begin of tibia
+proximal_102,65,female,shoulder,right,45.29,6.54,yes,proximal,begin of humerus
+proximal_103,8,male,shoulder,left,57.11,3.8,yes,proximal,begin of humerus
+proximal_104,16,male,hip join,left,87.65,0,no,proximal,begin of femur
+proximal_105,64,female,hip join,left,81.41,0,no,proximal,begin of femur
+proximal_106,7,male,hip join,left,46.01,0,no,proximal,begin of femur
+proximal_107,13,female,hip join,left,96.41,0,no,proximal,begin of femur
+proximal_108,11,male,ulna,left,23.33,3.15,slight,proximal,broken both begin of radius and ulna
+proximal_109,4,female,tibia,right,17.88,56.21,yes,proximal,begin of tibia
+proximal_110,3,male,radius,left,17.36,0,no,proximal,begin of radius
+proximal_111,33,male,radius,left,5.8,2.37,slight,proximal,broken both begin of radius and ulna
+proximal_112,15,male,femur,right,13.86,4.75,slight,proximal,begin of femur
+proximal_113,76,female,hip join,right,62.39,0,no,proximal,begin of femur
+proximal_114,6,female,ulna,left,38.46,0,no,proximal,begin of ulna
+proximal_115,7,male,hip join,right,76.45,0,no,proximal,begin of femur
+proximal_116,5,male,ulna,left,67.69,2.32,slight,proximal,begin of ulna
+proximal_117,42,male,humerus,left,54.24,7.05,yes,proximal,begin of humerus
+proximal_118,6,male,shoulder,left,54.68,6.61,yes,proximal,begin of humerus
+proximal_119,6,male,radius,left,16.55,3.73,slight,proximal,broken both begin of radius and ulna
+proximal_120,9,male,ulna,left,19.92,6.87,yes,proximal,broken both begin of radius and ulna
+proximal_121,3,male,femur,right,28.81,7.37,yes,proximal,begin of femur
+proximal_122,11,male,ulna,left,11.45,5.55,yes,proximal,begin of ulna
+proximal_123,8,female,femur,left,35.06,0,no,proximal,begin of femur
+proximal_124,60,male,tibia,left,76.37,0,no,proximal,begin of tibia
+proximal_125,60,male,tibia,left,70.11,9.91,yes,proximal,begin of tibia
+proximal_126,60,male,tibia,left,49.81,11.46,yes,proximal,begin of tibia
+proximal_127,75,male,hip join,left,72.13,0,no,proximal,begin of femur
+proximal_128,60,male,tibia,left,50.08,13.37,yes,proximal,begin of tibia
+proximal_129,12,male,ulna,left,14.11,0,no,proximal,broken both begin of radius and ulna
+proximal_130,25,male,ulna,right,27.2,7.95,yes,proximal,begin of ulna
+proximal_131,33,male,ulna,left,6.37,2.69,slight,proximal,broken both begin of radius and ulna
+proximal_132,39,male,femur,right,16.85,3.48,slight,proximal,begin of femur
+proximal_133,14,male,tibia,right,8.11,0.59,slight,proximal,begin of tibia
+proximal_134,10,female,tibia,left,5.84,1.13,slight,proximal,begin of tibia
+proximal_135,3,female,femur,right,12.27,4.96,slight,proximal,begin of femur
+proximal_136,3,female,femur,left,12.43,4.75,slight,proximal,begin of femur
+proximal_137,8,female,tibia,right,35.46,0,no,proximal,broken both begin of tibia and fibula
+proximal_138,3,male,tibia,right,21.03,0,no,proximal,begin of tibia
+proximal_139,7,male,femur,right,9.79,3.89,slight,proximal,begin of femur
+proximal_140,7,male,femur,right,9.63,3.12,slight,proximal,begin of femur
+proximal_141,9,male,humerus,right,21.78,1.12,slight,proximal,begin of humerus
+proximal_142,13,male,humerus,left,13.55,2.9,slight,proximal,begin of humerus
+proximal_143,6,female,hip join,left,67.9,0,no,proximal,begin of femur
+proximal_144,7,male,hip join,right,50.64,3.11,slight,proximal,begin of femur
+proximal_145,11,male,radius,right,6.17,3.06,slight,proximal,begin of radius
+proximal_146,13,male,radius,right,5.97,2.73,slight,proximal,begin of radius
+proximal_147,3,male,hip join,left,45.66,7.58,yes,proximal,begin of femur
+proximal_148,31,male,tibia,right,35.95,4.94,slight,proximal,broken both begin of tibia and fibula
+proximal_149,3,male,humerus,left,8.58,2.5,slight,proximal,begin of humerus
+proximal_150,3,male,humerus,left,8.7,2.54,slight,proximal,begin of humerus
+proximal_151,10,male,ulna,left,8.14,0.42,slight,proximal,begin of ulna
+proximal_152,10,male,ulna,left,8.09,0.37,slight,proximal,begin of ulna
+proximal_153,2,male,humerus,left,9.23,0,no,proximal,begin of humerus
+proximal_154,8,female,femur,right,38.57,10.37,yes,proximal,begin of femur
+proximal_155,23,male,femur,right,12.43,4.18,slight,proximal,begin of femur
+proximal_156,19,female,femur,left,12.32,4.08,slight,proximal,begin of femur
+proximal_157,5,male,femur,right,11.65,3.79,slight,proximal,begin of femur
+proximal_158,5,male,femur,right,11.9,3.65,slight,proximal,begin of femur
+proximal_159,5,male,radius,right,12.77,9.19,yes,proximal,broken both begin of radius and ulna
+proximal_160,14,male,radius,left,10.76,4.15,slight,proximal,begin of radius
+proximal_161,14,male,radius,left,10.85,3.97,slight,proximal,begin of radius
+proximal_162,1,male,ulna,right,3.75,0,no,proximal,broken both begin of radius and ulna
+proximal_163,3,male,tibia,right,16.21,6.14,yes,proximal,begin of tibia
+proximal_164,9,female,femur,left,19.121,6.44,yes,proximal,begin of femur
+proximal_165,9,female,femur,right,18.9,3.23,slight,proximal,begin of femur
+proximal_166,11,female,femur,right,18.21,12.09,yes,proximal,begin of femur
+proximal_167,6,female,femur,left,17.6,2.11,slight,proximal,begin of femur
+proximal_168,6,female,femur,right,18.63,3.37,slight,proximal,begin of femur
+proximal_169,33,male,humerus,right,8.43,14.34,yes,proximal,begin of humerus
+proximal_170,18,male,humerus,right,4.86,0.67,slight,proximal,begin of humerus
+proximal_171,6,female,humerus,right,22.34,5.86,yes,proximal,begin of humerus
+proximal_172,7,male,radius,right,10.3,5.24,yes,proximal,broken both begin of radius and ulna
+proximal_173,33,female,femur,left,73.55,0,no,proximal,begin of femur
+proximal_174,47,male,tibia,right,9.86,4.47,slight,proximal,broken both begin of tibia and fibula
+proximal_175,26,female,ulna,left,33.6,0,no,proximal,begin of ulna
+proximal_176,7,male,humerus,left,9.06,2.001,slight,proximal,begin of humerus
+proximal_177,7,male,humerus,right,9.79,0.69,slight,proximal,begin of humerus
+proximal_178,7,male,humerus,left,9.35,1.09,slight,proximal,begin of humerus
+proximal_179,11,male,ulna,right,20.28,9.42,yes,proximal,begin of ulna
+proximal_180,24,male,radius,left,17.75,2.31,slight,proximal,begin of radius
+proximal_181,9,male,ulna,left,55.39,13.98,yes,proximal,begin of ulna
+proximal_182,4,male,tibia,right,16.65,2.85,slight,proximal,begin of tibia
+proximal_183,19,female,femur,right,9.07,2.71,slight,proximal,begin of femur
+proximal_184,16,female,femur,right,19.63,6.16,yes,proximal,begin of femur
+proximal_185,65,male,humerus,left,8.9,0,no,proximal,begin of humerus
+proximal_186,60,male,tibia,left,45.21,13.6,yes,proximal,begin of tibia
+proximal_187,11,male,radius,right,21.85,3.9,slight,proximal,broken both begin of radius and ulna
+proximal_188,38,male,shoulder,right,100.5,0,no,proximal,begin of humerus
+proximal_189,8,male,hip join,right,69.8,1.73,slight,proximal,begin of femur
+proximal_190,11,male,ulna,right,20.15,3.33,slight,proximal,begin of ulna
+proximal_191,38,male,shoulder,right,87.31,0,no,proximal,begin of humerus
+proximal_192,60,male,tibia,left,52.65,11.01,yes,proximal,begin of tibia
+proximal_193,60,male,tibia,left,63.49,0,no,proximal,begin of tibia
+proximal_194,60,male,tibia,left,64.55,11.7,yes,proximal,begin of tibia
+proximal_195,8,male,hip join,right,71.59,1.8,slight,proximal,begin of femur
+proximal_196,24,male,ulna,right,6.04,1.68,slight,proximal,begin of ulna
+proximal_197,11,male,radius,left,19.08,2.63,slight,proximal,broken both begin of radius and ulna
+proximal_198,4,male,tibia,right,37.01,4.21,slight,proximal,broken both begin of tibia and fibula
+proximal_199,6,male,femur,right,42.85,0,no,proximal,begin of femur
+proximal_200,1,male,ulna,right,15.26,0,no,proximal,broken both begin of radius and ulna
+proximal_201,8,female,humerus,right,30.04,4.99,slight,proximal,begin of humerus
+proximal_202,5,male,tibia,left,39.28,2.3,slight,proximal,begin of tibia
+proximal_203,10,female,shoulder,left,64.24,0,no,proximal,begin of humerus
+proximal_204,3,female,hip join,left,37.76,22.3,yes,proximal,begin of femur
+proximal_205,12,male,radius,left,17.06,0,no,proximal,broken both begin of radius and ulna
+proximal_206,5,male,femur,right,40.77,0,no,proximal,begin of femur
+proximal_207,8,female,humerus,right,33.1,14.13,yes,proximal,begin of humerus
+proximal_208,5,male,tibia,right,32.36,4.31,slight,proximal,begin of tibia
+proximal_209,1,male,ulna,right,15.34,0,no,proximal,broken both begin of radius and ulna
+proximal_210,10,female,shoulder,left,35.32,0,no,proximal,begin of humerus
+proximal_211,24,male,fibula,right,66.4,0,no,proximal,begin of fibula
+proximal_212,3,female,hip join,left,36.18,0,no,proximal,begin of femur
+proximal_213,1,male,ulna,right,15.32,0,no,proximal,broken both begin of radius and ulna
+proximal_214,57,female,hip join,left,56.79,0,no,proximal,begin of femur
+proximal_215,2,male,tibia,right,32.62,0,no,proximal,begin of tibia
+proximal_216,1,female,humerus,right,10.26,1.18,slight,proximal,begin of humerus
+proximal_217,57,female,hip join,right,67.14,0,no,proximal,begin of femur
+proximal_218,1,male,humerus,left,25.07,0,no,proximal,begin of humerus
+proximal_219,6,female,ulna,right,22.78,1.61,slight,proximal,begin of ulna
+proximal_220,10,female,shoulder,left,35.59,0,no,proximal,begin of humerus
+proximal_221,1,female,humerus,right,11.65,1.88,slight,proximal,begin of humerus
+proximal_222,1,male,humerus,left,27.43,5.4,yes,proximal,begin of humerus
+proximal_223,1,male,tibia,right,32.18,0,no,proximal,begin of tibia
+proximal_224,19,male,fibula,left,4.97,1.2,slight,proximal,begin of fibula
+proximal_225,5,male,tibia,left,38.09,0,no,proximal,begin of tibia
+proximal_226,55,male,radius,left,22.15,0,no,proximal,broken both begin of radius and ulna
+proximal_227,1,female,ulna,right,16.29,0,no,proximal,begin of ulna
+proximal_228,85,female,femur,right,57.5,0,no,proximal,begin of femur
+proximal_229,85,female,femur,right,34.68,0,no,proximal,begin of femur
+proximal_230,71,male,humerus,left,34.77,8.78,yes,proximal,begin of humerus
+proximal_231,10,male,radius,left,22.43,0,no,proximal,broken both begin of radius and ulna
+proximal_232,1,male,radius,left,10.46,0,no,proximal,broken both begin of radius and ulna
+proximal_233,85,female,femur,right,58.19,0,no,proximal,begin of femur
+proximal_234,85,female,femur,right,34.47,0,no,proximal,begin of femur
+proximal_235,71,male,humerus,left,40.27,7.33,yes,proximal,begin of humerus
+proximal_236,85,female,femur,right,63.21,0,no,proximal,begin of femur
+proximal_237,55,female,humerus,right,88.1,0,no,proximal,begin of humerus
+proximal_238,12,male,humerus,left,45.73,0,no,proximal,begin of humerus
+proximal_239,6,female,femur,left,85.58,0,no,proximal,begin of femur
+proximal_240,1,male,femur,right,13.56,9.42,yes,proximal,begin of femur
+proximal_241,52,male,humerus,right,83.9,0,no,proximal,begin of humerus
+proximal_242,55,female,humerus,right,51.3,0,no,proximal,begin of humerus
+proximal_243,12,male,humerus,left,49.3,0,no,proximal,begin of humerus
+proximal_244,40,female,humerus,right,39.2,0,no,proximal,begin of humerus
+proximal_245,40,female,humerus,right,39.2,0,no,proximal,begin of humerus
+proximal_246,52,male,humerus,right,81.9,0,no,proximal,begin of humerus
+proximal_247,40,female,humerus,right,31.17,0,no,proximal,begin of humerus
+proximal_248,6,female,femur,right,63.72,0,no,proximal,begin of femur
+proximal_249,13,male,humerus,left,43.09,0,no,proximal,begin of humerus
+proximal_250,11,female,ulna,right,16.11,0,no,proximal,begin of ulna
+proximal_251,9,male,humerus,right,34.91,0,no,proximal,begin of humerus
+proximal_252,13,male,humerus,left,43.12,0,no,proximal,begin of humerus
+proximal_253,70,female,humerus,left,38.54,0,no,proximal,begin of humerus
+proximal_254,11,male,humerus,right,31.98,14.02,yes,proximal,begin of humerus
+post_fracture_1,4,female,elbow,left,46.42,0,no,post_fracture,callus present
+post_fracture_2,43,male,elbow,right,27.8,0,no,post_fracture,callus present
+post_fracture_3,8,female,elbow,left,86.12,2.47,slight,post_fracture,poor alignment 
+post_fracture_4,9,male,elbow,right,42.53,0,no,post_fracture,callus present
+post_fracture_5,7,male,elbow,right,39.61,0,no,post_fracture,callus present
+post_fracture_6,7,male,elbow,right,70.59,4.66,slight,post_fracture,poor alignment 
+post_fracture_7,8,male,elbow,right,73.33,0,no,post_fracture,callus present
+post_fracture_8,7,male,elbow,left,41.23,0,no,post_fracture,callus present
+post_fracture_9,8,male,elbow,right,66.08,0,no,post_fracture,poor alignment 
+post_fracture_10,9,male,elbow,right,47.89,0,no,post_fracture,callus present
+post_fracture_11,12,male,elbow,left,84.14,2.48,slight,post_fracture,callus present
+post_fracture_12,12,male,elbow,left,83.71,0,no,post_fracture,callus present
+post_fracture_13,10,male,elbow,right,43.77,0,no,post_fracture,callus present
+post_fracture_14,6,male,elbow,right,79.48,0,no,post_fracture,poor alignment 
+post_fracture_15,16,male,elbow,right,107.3,0,no,post_fracture,mal union
+post_fracture_16,17,male,elbow,right,65.22,0,no,post_fracture,mal union
+post_fracture_17,40,male,elbow,right,108.8,0,no,post_fracture,callus present
+post_fracture_18,7,male,elbow,right,61.71,0,no,post_fracture,poor alignment 
+post_fracture_19,8,male,elbow,right,54.83,0,no,post_fracture,poor alignment 
+post_fracture_20,13,female,elbow,right,70.11,0,no,post_fracture,callus present
+post_fracture_21,13,female,elbow,right,69.85,0,no,post_fracture,callus present
+post_fracture_22,13,female,elbow,right,69.59,0,no,post_fracture,callus present
+post_fracture_23,25,male,elbow,right,86.38,0,no,post_fracture,callus present
+post_fracture_24,23,male,fibula,right,30.43,1.08,slight,post_fracture,mal union
+post_fracture_25,7,male,elbow,left,51.4,0,no,post_fracture,callus present
+post_fracture_26,4,male,elbow,right,42.17,0,no,post_fracture,callus present
+post_fracture_27,7,male,humerus,right,59.19,0,no,post_fracture,mal union
+post_fracture_28,4,female,elbow,left,59.54,0,no,post_fracture,callus present
+post_fracture_29,13,male,elbow,left,84.27,0,no,post_fracture,callus present
+post_fracture_30,7,male,humerus,right,51.16,0,no,post_fracture,mal union
+post_fracture_31,21,male,shoulder,right,94.46,0,no,post_fracture,callus present
+post_fracture_32,21,male,shoulder,right,92.31,0,no,post_fracture,callus present
+post_fracture_33,20,male,metacarpal,right,13.26,0,no,post_fracture,mal union
+post_fracture_34,19,male,elbow,right,73.82,0,no,post_fracture,poor alignment 
+post_fracture_35,18,male,knee,left,91.02,0,no,post_fracture,callus present
+post_fracture_36,5,male,femur,left,37.72,0,no,post_fracture,mal union
+post_fracture_37,20,male,metacarpal,right,13.28,0,no,post_fracture,mal union
+post_fracture_38,9,male,knee,left,52.94,0,no,post_fracture,callus present
+post_fracture_39,10,female,radius,right,20.92,2.21,slight,post_fracture,callus present
+post_fracture_40,5,male,ulna,left,25.37,0,no,post_fracture,callus present
+post_fracture_41,1,male,elbow,left,44.77,0,no,post_fracture,callus present
+post_fracture_42,6,female,shoulder,right,41.18,10.82,yes,post_fracture,poor alignment 
+post_fracture_43,5,male,femur,left,37.67,0,no,post_fracture,mal union
+post_fracture_44,36,male,tibia,left,31.52,0,no,post_fracture,mal union
+post_fracture_45,5,female,tibia,left,42.25,0,no,post_fracture,callus present
+post_fracture_46,24,female,fibula,right,18.28,0,no,post_fracture,callus present
+post_fracture_47,24,female,tibia,left,52.23,0,no,post_fracture,callus present
+post_fracture_48,24,female,tibia,left,50.83,0,no,post_fracture,callus present
+post_fracture_49,24,female,tibia,left,52.12,0,no,post_fracture,callus present
+post_fracture_50,10,male,tibia,left,51.59,0,no,post_fracture,callus present
+post_fracture_51,10,male,tibia,left,50.09,0,no,post_fracture,callus present
+post_fracture_52,11,male,tibia,right,43.01,0,no,post_fracture,callus present
+post_fracture_53,11,male,tibia,right,41.67,0,no,post_fracture,callus present
+post_fracture_54,11,male,tibia,right,45.88,0,no,post_fracture,callus present
+post_fracture_55,31,male,tibia,right,44.21,0,no,post_fracture,callus present
+post_fracture_56,33,male,fibula,left,19.5,0,no,post_fracture,callus present
+post_fracture_57,1,male,elbow,left,40.85,0,no,post_fracture,callus present
+post_fracture_58,7,male,femur,right,38.39,0,no,post_fracture,mal union
+post_fracture_59,7,male,femur,right,40.19,0,no,post_fracture,mal union
+post_fracture_60,9,male,femur,left,43.07,0,no,post_fracture,callus present
+post_fracture_61,8,male,femur,left,41.64,0,no,post_fracture,callus present
+post_fracture_62,8,male,femur,left,32.6,0,no,post_fracture,callus present
+post_fracture_63,11,female,femur,left,32.74,0,no,post_fracture,mal union
+post_fracture_64,11,female,femur,left,43.6,0,no,post_fracture,mal union
+post_fracture_65,15,male,hip join,right,74.96,0,no,post_fracture,callus present
+post_fracture_66,15,male,hip join,right,76.47,0,no,post_fracture,callus present
+post_fracture_67,14,female,femur,left,37.51,0,no,post_fracture,callus present
+post_fracture_68,13,male,radius,left,31.35,0,no,post_fracture,callus present
+post_fracture_69,13,male,radius,left,46.51,0,no,post_fracture,callus present
+post_fracture_70,12,male,ulna,left,18.49,0,no,post_fracture,mal union
+post_fracture_71,3,female,shoulder,left,36.2,0,no,post_fracture,callus present
+post_fracture_72,3,female,shoulder,left,39.93,3.83,slight,post_fracture,callus present
+post_fracture_73,6,male,hip join,left,71.97,0,no,post_fracture,callus present
+post_fracture_74,6,male,humerus,left,33.57,0,no,post_fracture,mal union
+post_fracture_75,6,male,humerus,left,30.37,0,no,post_fracture,callus present
+post_fracture_76,10,male,humerus,left,46.61,0,no,post_fracture,callus present
+post_fracture_77,16,male,humerus,left,43.34,0,no,post_fracture,mal union
+post_fracture_78,18,male,elbow,left,13.37,0,no,post_fracture,callus present
+post_fracture_79,25,male,tibia,right,7.57,0.79,slight,post_fracture,callus present
+post_fracture_80,25,male,knee,right,15.21,0,no,post_fracture,callus present
+post_fracture_81,25,male,tibia,right,7.51,0,no,post_fracture,callus present
+post_fracture_82,25,male,tibia,right,7.53,0,no,post_fracture,callus present
+post_fracture_83,25,male,tibia,right,7.52,0,no,post_fracture,callus present
+post_fracture_84,25,male,tibia,right,9.12,0.87,slight,post_fracture,callus present
+post_fracture_85,25,male,radius,left,4.64,0,no,post_fracture,callus present
+post_fracture_86,25,male,radius,left,4.58,0,no,post_fracture,callus present
+post_fracture_87,27,male,ulna,right,25.79,0,no,post_fracture,callus present
+post_fracture_88,4,female,tibia,right,48.31,0,no,post_fracture,mal union
+post_fracture_89,4,female,tibia,right,51.04,0,no,post_fracture,callus present
+post_fracture_90,2,female,tibia,right,21.43,1.32,slight,post_fracture,callus present
+post_fracture_91,4,female,tibia,right,48.05,0,no,post_fracture,callus present
+post_fracture_92,1,male,radius,left,18.79,0,no,post_fracture,callus present
+post_fracture_93,21,male,fibula,right,27.93,9.84,yes,post_fracture,callus present
+post_fracture_94,25,male,tibia,right,7.57,0,no,post_fracture,callus present
+post_fracture_95,25,male,knee,right,18.22,0,no,post_fracture,callus present
+post_fracture_96,18,male,tibia,right,10.53,0,no,post_fracture,callus present
+post_fracture_97,8,male,hip join,left,51.78,0,no,post_fracture,callus present
+post_fracture_98,10,female,hip join,left,60.04,0,no,post_fracture,callus present
+post_fracture_99,10,female,hip join,left,60.06,0,no,post_fracture,callus present
+post_fracture_100,15,female,hip join,left,55.46,0,no,post_fracture,callus present
+post_fracture_101,8,male,hip join,right,51.4,0,no,post_fracture,callus present
+post_fracture_102,4,female,tibia,right,17.97,2.48,slight,post_fracture,poor alignment 
+post_fracture_103,4,female,tibia,right,17.38,8.27,yes,post_fracture,poor alignment 
+post_fracture_104,18,male,tibia,right,10.68,0,no,post_fracture,callus present
+post_fracture_105,21,male,tibia,right,44.31,0,no,post_fracture,callus present
+post_fracture_106,21,male,tibia,right,30.93,9.52,yes,post_fracture,callus present
+post_fracture_107,37,male,femur,right,54.66,0,no,post_fracture,callus present
+post_fracture_108,37,male,femur,right,55.04,0,no,post_fracture,callus present
+post_fracture_109,55,male,ulna,right,6.1,0,no,post_fracture,callus present
+post_fracture_110,55,male,ulna,right,5.26,0,no,post_fracture,callus present
+post_fracture_111,1,female,femur,left,20.71,0,no,post_fracture,mal union
+post_fracture_112,1,male,femur,left,26.58,0,no,post_fracture,mal union
+post_fracture_113,11,male,tibia,right,50.54,0,no,post_fracture,mal union
+post_fracture_114,7,female,tibia,right,42.39,0,no,post_fracture,poor alignment 
+post_fracture_115,2,female,tibia,right,21.43,1.85,slight,post_fracture,poor alignment 
+post_fracture_116,11,male,tibia,right,51.07,0,no,post_fracture,mal union
+post_fracture_117,21,male,tibia,left,82.56,0,no,post_fracture,callus present
+post_fracture_118,21,male,tibia,left,82.82,0,no,post_fracture,callus present
+post_fracture_119,5,male,femur,right,37.18,0,no,post_fracture,mal union
+post_fracture_120,2,female,femur,left,23.81,0,no,post_fracture,mal union
+post_fracture_121,6,male,radius,right,13.76,0.81,slight,post_fracture,mal union
+post_fracture_122,2,male,ulna,right,12.51,0,no,post_fracture,callus present
+post_fracture_123,1,male,radius,right,11.33,2.19,slight,post_fracture,callus present
+post_fracture_124,15,female,knee,right,52.62,0,no,post_fracture,callus present
+post_fracture_125,2,male,finger,left,8.2,1.81,slight,post_fracture,callus present
+post_fracture_126,14,female,tibia,right,34.72,0,no,post_fracture,callus present
+post_fracture_127,16,male,femur,right,51.08,0,no,post_fracture,callus present
+post_fracture_128,16,male,femur,right,51.04,0,no,post_fracture,callus present
+post_fracture_129,2,female,tibia,right,24.7,0,no,post_fracture,mal union
+post_fracture_130,10,female,hip join,right,59.19,0,no,post_fracture,callus present
+post_fracture_131,19,male,fibula,right,8.63,6.66,yes,post_fracture,mal union
+post_fracture_132,20,male,femur,right,51.37,0,no,post_fracture,callus present
+post_fracture_133,9,male,femur,left,48.19,0,no,post_fracture,callus present
+post_fracture_134,4,male,femur,left,32.4,0,no,post_fracture,callus present
+post_fracture_135,38,male,ulna,right,35.04,0,no,post_fracture,callus present
+post_fracture_136,20,male,metacarpal,right,13.55,0,no,post_fracture,callus present
+post_fracture_137,55,male,tibia,right,52.92,0,no,post_fracture,mal union
+post_fracture_138,7,male,tibia,left,22.56,0,no,post_fracture,mal union
+post_fracture_139,15,female,shoulder,right,52.25,0,no,post_fracture,callus present
+post_fracture_140,14,female,femur,right,37.67,0,no,post_fracture,callus present
+post_fracture_141,3,female,femur,right,36.7,0,no,post_fracture,callus present
+post_fracture_142,41,male,ulna,right,88.68,0,no,post_fracture,callus present
+post_fracture_143,27,male,elbow,right,31.2,0,no,post_fracture,callus present
+post_fracture_144,5,male,elbow,left,22.4,0,no,post_fracture,callus present
+post_fracture_145,14,female,femur,right,40.19,0,no,post_fracture,callus present
+post_fracture_146,18,male,femur,left,69.74,0,no,post_fracture,callus present
+post_fracture_147,8,female,femur,left,56.04,0,no,post_fracture,mal union
+post_fracture_148,1,male,tibia,right,27.98,0,no,post_fracture,mal union
+post_fracture_149,12,male,elbow,left,28.43,0,no,post_fracture,callus present
+post_fracture_150,55,male,tibia,right,53.19,0,no,post_fracture,mal union
+post_fracture_151,12,male,elbow,left,35.27,0,no,post_fracture,callus present
+post_fracture_152,9,female,tibia,right,44.29,0,no,post_fracture,mal union
+post_fracture_153,17,male,knee,left,70.54,0,no,post_fracture,callus present
+post_fracture_154,23,male,radius,left,26.9,0,no,post_fracture,callus present
+post_fracture_155,6,male,radius,right,18.13,0,no,post_fracture,callus present
+post_fracture_156,3,male,tibia,right,25.93,0,no,post_fracture,callus present
+post_fracture_157,7,male,ulna,left,20.64,0,no,post_fracture,callus present
+post_fracture_158,6,male,elbow,left,45.25,0,no,post_fracture,callus present
+post_fracture_159,7,female,femur,right,52.44,0,no,post_fracture,callus present
+post_fracture_160,8,female,femur,left,36.22,0,no,post_fracture,mal union
+post_fracture_161,11,male,elbow,left,33.23,0,no,post_fracture,callus present
+post_fracture_162,11,male,elbow,left,38.4,0,no,post_fracture,callus present
+post_fracture_163,30,male,elbow,left,69.77,0,no,post_fracture,callus present
+post_fracture_164,5,male,ulna,left,18.53,0,no,post_fracture,callus present
+post_fracture_165,6,male,femur,right,184.89,0,no,post_fracture,poor alignment 
+post_fracture_166,12,male,ulna,left,76.48,0,no,post_fracture,poor alignment 
+post_fracture_167,12,male,ulna,right,18.6,0,no,post_fracture,poor alignment 
+post_fracture_168,37,male,tibia,right,55.99,0,no,post_fracture,mal union
+post_fracture_169,4,female,radius,right,20.92,2.87,slight,post_fracture,poor alignment 
+post_fracture_170,8,male,elbow,left,43.54,0,no,post_fracture,callus present
+post_fracture_171,18,female,elbow,right,85.79,0,no,post_fracture,callus present
+post_fracture_172,4,male,femur,left,30.13,0,no,post_fracture,mal union
+post_fracture_173,55,male,tibia,right,52.21,0,no,post_fracture,mal union
+post_fracture_174,10,male,femur,left,66.27,0,no,post_fracture,callus present
+post_fracture_175,6,male,femur,right,43.22,0,no,post_fracture,poor alignment 
+post_fracture_176,10,female,humerus,left,25.25,0,no,post_fracture,mal union
+post_fracture_177,12,male,radius,left,16.15,5.29,yes,post_fracture,callus present
+post_fracture_178,12,male,radius,left,16.19,4.99,slight,post_fracture,mal union
+post_fracture_179,10,male,elbow,right,30.83,0,no,post_fracture,callus present
+post_fracture_180,37,male,tibia,right,63.76,0,no,post_fracture,callus present
+post_fracture_181,16,female,knee,right,101.04,0,no,post_fracture,callus present
+post_fracture_182,4,female,ulna,left,20.76,1.54,slight,post_fracture,callus present
+post_fracture_183,3,female,ulna,left,12.66,2.46,slight,post_fracture,callus present
+post_fracture_184,17,male,elbow,left,113.38,0,no,post_fracture,callus present
+post_fracture_185,2,female,shoulder,right,47.45,4.59,slight,post_fracture,callus present
+post_fracture_186,2,female,elbow,left,46.45,0,no,post_fracture,callus present
+post_fracture_187,15,male,elbow,left,81.15,0,no,post_fracture,callus present
+post_fracture_188,20,male,femur,right,87.32,0,no,post_fracture,callus present
+post_fracture_189,55,male,tibia,right,60.85,0,no,post_fracture,mal union
+post_fracture_190,11,male,ulna,left,19.03,1.42,slight,post_fracture,callus present
+post_fracture_191,35,male,elbow,left,95.61,0,no,post_fracture,callus present
+post_fracture_192,14,female,femur,right,35.63,0,no,post_fracture,callus present
+post_fracture_193,15,female,humerus,left,32.96,0,no,post_fracture,callus present
+post_fracture_194,18,male,elbow,left,70.3,14.9,yes,post_fracture,callus present
+post_fracture_195,3,male,tibia,left,20.66,0,no,post_fracture,callus present
+post_fracture_196,50,male,tibia,left,80.79,10.38,yes,post_fracture,callus present
+post_fracture_197,10,female,femur,right,45.37,3.35,slight,post_fracture,callus present
+post_fracture_198,7,female,ulna,right,13.99,0,no,post_fracture,callus present
+post_fracture_199,35,female,tibia,left,33.75,0,no,post_fracture,callus present
+post_fracture_200,11,male,radius,right,23.63,0,no,post_fracture,poor alignment 
+post_fracture_201,12,male,elbow,left,61.3,0,no,post_fracture,callus present
+post_fracture_202,10,male,elbow,left,48.68,0,no,post_fracture,callus present
+post_fracture_203,23,female,elbow,left,78.93,0,no,post_fracture,callus present
+post_fracture_204,13,male,elbow,left,85.68,0,no,post_fracture,callus present
+post_fracture_205,13,male,elbow,left,71.35,0,no,post_fracture,callus present
+post_fracture_206,8,female,elbow,right,74.95,0,no,post_fracture,callus present
+post_fracture_207,30,male,elbow,left,68.43,0,no,post_fracture,callus present
+post_fracture_208,33,male,elbow,left,124.95,0,no,post_fracture,callus present
+post_fracture_209,13,female,elbow,left,52.7,2.84,slight,post_fracture,callus present
+post_fracture_210,10,female,fibula,left,53.04,0,no,post_fracture,callus present
+post_fracture_211,19,male,elbow,left,97.56,0,no,post_fracture,callus present
+post_fracture_212,15,female,elbow,right,71.43,0,no,post_fracture,callus present
+post_fracture_213,9,male,elbow,right,40.92,0,no,post_fracture,callus present
+post_fracture_214,35,female,tibia,right,60.73,0,no,post_fracture,mal union
+post_fracture_215,30,male,knee,left,82.49,0,no,post_fracture,callus present
+post_fracture_216,40,female,elbow,left,41.54,0,no,post_fracture,callus present
+post_fracture_217,5,female,knee,left,59.99,0,no,post_fracture,callus present
+post_fracture_218,18,male,elbow,left,63.9,0,no,post_fracture,callus present
+post_fracture_219,5,female,elbow,left,64.41,0,no,post_fracture,callus present
+post_fracture_220,30,male,elbow,right,7.69,0,no,post_fracture,callus present
+post_fracture_221,9,male,elbow,right,30.18,0,no,post_fracture,callus present
+post_fracture_222,3,male,tibia,left,16.94,0,no,post_fracture,callus present
+post_fracture_223,11,female,elbow,right,69.58,0,no,post_fracture,callus present
+post_fracture_224,11,female,elbow,right,43.05,0,no,post_fracture,callus present
+post_fracture_225,81,female,elbow,left,63.38,0,no,post_fracture,callus present
+post_fracture_226,25,female,tibia,right,51.76,0,no,post_fracture,callus present
+post_fracture_227,15,male,elbow,right,48.78,0,no,post_fracture,callus present
+post_fracture_228,9,female,ulna,right,21.87,0,no,post_fracture,callus present
+post_fracture_229,7,female,tibia,right,22.61,0,no,post_fracture,mal union
+post_fracture_230,9,female,tibia,right,44.46,0,no,post_fracture,callus present
+post_fracture_231,8,female,tibia,right,47.22,0,no,post_fracture,callus present
+post_fracture_232,9,male,tibia,right,60.79,0,no,post_fracture,callus present
+post_fracture_233,7,female,tibia,right,56.89,0,no,post_fracture,callus present
+post_fracture_234,8,female,ulna,right,14.78,0,no,post_fracture,callus present
+post_fracture_235,14,male,humerus,right,38.96,0,no,post_fracture,callus present
+post_fracture_236,9,female,ulna,right,27.99,0,no,post_fracture,callus present
+post_fracture_237,7,female,tibia,right,47.66,8.72,yes,post_fracture,mal union
+post_fracture_238,9,male,elbow,right,67.37,0,no,post_fracture,callus present
+post_fracture_239,32,male,ulna,right,30.47,0,no,post_fracture,callus present
+post_fracture_240,8,female,elbow,right,65.58,0,no,post_fracture,callus present
+post_fracture_241,8,male,elbow,right,45.18,0,no,post_fracture,callus present
+post_fracture_242,10,male,elbow,left,71.7,0,no,post_fracture,callus present
+post_fracture_243,17,female,tibia,right,34.79,0,no,post_fracture,poor alignment 
+post_fracture_244,56,female,hip join,right,89.13,0,no,post_fracture,callus present
+post_fracture_245,55,female,hip join,left,82.81,0,no,post_fracture,callus present
+post_fracture_246,20,male,knee,left,75.27,0,no,post_fracture,callus present
+post_fracture_247,11,male,elbow,right,73.78,9.61,yes,post_fracture,poor alignment 
+post_fracture_248,23,female,knee,left,61.71,0,no,post_fracture,callus present
+post_fracture_249,12,male,femur,right,46.79,0,no,post_fracture,callus present
+post_fracture_250,7,male,tibia,left,25.05,0,no,post_fracture,callus present
+post_fracture_251,19,male,tibia,right,51.12,0,no,post_fracture,mal union
+post_fracture_252,25,female,knee,left,121.11,0,no,post_fracture,callus present
+post_fracture_253,7,male,tibia,left,20.93,0,no,post_fracture,mal union
+post_fracture_254,25,female,tibia,right,46.58,0,no,post_fracture,callus present
+post_fracture_255,32,male,knee,right,116.28,0,no,post_fracture,mal union
+post_fracture_256,13,female,knee,left,102.28,0,no,post_fracture,callus present
+post_fracture_257,32,male,knee,right,117.73,0,no,post_fracture,mal union
+post_fracture_258,32,male,tibia,right,37.57,0,no,post_fracture,mal union
+post_fracture_259,17,male,femur,left,55.02,0,no,post_fracture,callus present
+post_fracture_260,70,female,ulna,left,31.73,0,no,post_fracture,callus present
+post_fracture_261,18,male,knee,left,104.41,0,no,post_fracture,callus present
+post_fracture_262,9,female,tibia,right,68.43,0,no,post_fracture,callus present
+post_fracture_263,17,male,femur,left,64.52,0,no,post_fracture,callus present
+post_fracture_264,15,male,elbow,right,85.93,0,no,post_fracture,callus present
+post_fracture_265,14,male,hip join,right,79.87,0,no,post_fracture,callus present
+post_fracture_266,11,male,knee,left,129.98,0,no,post_fracture,callus present
+post_fracture_267,24,female,tibia,left,74.81,0,no,post_fracture,callus present
+post_fracture_268,5,female,knee,left,101.72,0,no,post_fracture,callus present
+post_fracture_269,11,female,hip join,right,81.79,0,no,post_fracture,callus present
+post_fracture_270,16,male,elbow,left,100.02,0,no,post_fracture,callus present
+post_fracture_271,12,female,tibia,left,54.09,0,no,post_fracture,callus present
+post_fracture_272,5,female,knee,left,60.56,0,no,post_fracture,callus present
+post_fracture_273,28,male,radius,right,24.28,0,no,post_fracture,callus present
+post_fracture_274,19,male,ulna,right,48.3,1.24,slight,post_fracture,callus present
+post_fracture_275,33,male,tibia,left,47.86,0,no,post_fracture,callus present
+post_fracture_276,33,male,tibia,left,47.27,0,no,post_fracture,callus present
+post_fracture_277,18,female,carpal,left,4.88,0,no,post_fracture,callus present
+post_fracture_278,11,female,hip join,left,70.56,0,no,post_fracture,callus present
+post_fracture_279,17,female,knee,left,77.12,0,no,post_fracture,callus present
+post_fracture_280,19,female,fibula,left,27.59,0,no,post_fracture,callus present
+post_fracture_281,11,male,humerus,left,60.99,0,no,post_fracture,callus present
+post_fracture_282,8,male,tibia,left,40.29,0,no,post_fracture,callus present
+post_fracture_283,10,male,hip join,right,50.82,0,no,post_fracture,callus present
+post_fracture_284,13,male,tibia,left,64.01,0,no,post_fracture,callus present
+post_fracture_285,35,male,tibia,right,64.98,6.94,yes,post_fracture,callus present
+post_fracture_286,3,male,tibia,right,45.79,0,no,post_fracture,callus present
+post_fracture_287,19,female,tibia,left,34.68,0,no,post_fracture,callus present
+post_fracture_288,17,male,humerus,left,44.82,0,no,post_fracture,mal union
+post_fracture_289,17,female,femur,right,36.41,0,no,post_fracture,callus present
+post_fracture_290,9,male,tibia,left,49.19,0,no,post_fracture,callus present
+post_fracture_291,48,female,hip join,right,56.19,0,no,post_fracture,callus present
+post_fracture_292,8,male,femur,left,50.92,0,no,post_fracture,callus present
+post_fracture_293,13,female,knee,right,142.87,0,no,post_fracture,callus present
+post_fracture_294,12,female,ulna,left,40.85,6.23,yes,post_fracture,callus present
+post_fracture_295,6,male,tibia,right,41.56,3.07,slight,post_fracture,callus present
+post_fracture_296,6,male,ulna,left,21.29,0,no,post_fracture,callus present
+post_fracture_297,15,male,elbow,right,65.71,0,no,post_fracture,callus present
+post_fracture_298,17,male,femur,right,123.56,3.35,slight,post_fracture,callus present
+post_fracture_299,40,female,femur,left,65.05,0,no,post_fracture,callus present
+post_fracture_300,18,male,radius,right,21.41,0,no,post_fracture,callus present
+post_fracture_301,10,male,elbow,right,45.15,0,no,post_fracture,callus present
+post_fracture_302,13,female,hip join,left,71.64,0,no,post_fracture,callus present
+post_fracture_303,24,male,tibia,left,53.67,0,no,post_fracture,mal union
+post_fracture_304,13,female,elbow,right,93.5,0,no,post_fracture,callus present
+post_fracture_305,18,male,knee,left,138.46,0,no,post_fracture,callus present
+post_fracture_306,16,female,tibia,right,45.42,0,no,post_fracture,mal union
+post_fracture_307,29,female,radius,right,49.42,0,no,post_fracture,callus present
+post_fracture_308,12,male,radius,left,20.05,0,no,post_fracture,callus present
+post_fracture_309,17,male,hip join,left,103.43,0,no,post_fracture,callus present
+post_fracture_310,12,female,elbow,right,42.79,0,no,post_fracture,callus present
+post_fracture_311,6,female,radius,right,24.03,0,no,post_fracture,callus present
+post_fracture_312,16,female,tibia,right,52.03,0,no,post_fracture,mal union
+post_fracture_313,5,male,tibia,right,55.86,0,no,post_fracture,callus present
+post_fracture_314,35,female,tibia,right,54.97,0,no,post_fracture,callus present
+post_fracture_315,48,male,radius,left,21.61,0,no,post_fracture,callus present
+post_fracture_316,32,male,tibia,left,46.77,0,no,post_fracture,callus present
+post_fracture_317,1,male,elbow,left,30.93,0,no,post_fracture,callus present
+post_fracture_318,38,female,femur,right,58.94,0,no,post_fracture,callus present
+post_fracture_319,18,male,femur,left,53.52,0,no,post_fracture,callus present
+post_fracture_320,4,female,tibia,right,36.95,0,no,post_fracture,callus present
+post_fracture_321,10,female,tibia,right,46.23,0,no,post_fracture,callus present
+post_fracture_322,13,female,knee,left,94.2,0,no,post_fracture,callus present
+post_fracture_323,15,male,elbow,right,19.53,0,no,post_fracture,callus present
+post_fracture_324,14,male,tibia,left,47.68,0,no,post_fracture,callus present
+post_fracture_325,70,male,femur,left,63.15,0,no,post_fracture,callus present
+post_fracture_326,85,female,femur,right,65.5,12.16,yes,post_fracture,callus present
+post_fracture_327,30,male,elbow,left,48.14,0,no,post_fracture,callus present
+post_fracture_328,33,female,elbow,left,62.8,0,no,post_fracture,callus present
+post_fracture_329,4,male,femur,left,39.22,0,no,post_fracture,callus present
+post_fracture_330,13,female,femur,left,52.4,13.86,yes,post_fracture,callus present
+post_fracture_331,9,male,elbow,left,76.15,0,no,post_fracture,callus present
+post_fracture_332,16,male,hip join,right,91.51,0,no,post_fracture,callus present
+post_fracture_333,40,female,femur,left,67.56,0,no,post_fracture,callus present
+post_fracture_334,35,female,radius,right,44.33,0,no,post_fracture,callus present
+post_fracture_335,18,male,femur,left,59.37,0,no,post_fracture,callus present
+post_fracture_336,18,male,femur,left,59.33,0,no,post_fracture,callus present
+post_fracture_337,18,male,femur,right,60.5,0,no,post_fracture,callus present
+post_fracture_338,8,male,femur,left,29.44,3.19,slight,post_fracture,callus present
+post_fracture_339,9,male,elbow,left,46.47,0,no,post_fracture,callus present
+post_fracture_340,11,male,hip join,right,39.31,0,no,post_fracture,callus present
+post_fracture_341,16,male,elbow,left,37.35,0,no,post_fracture,callus present
+post_fracture_342,7,male,tibia,right,34.63,3.14,slight,post_fracture,callus present
+post_fracture_343,14,male,hip join,right,56.32,0,no,post_fracture,callus present
+post_fracture_344,18,male,elbow,left,68.29,0,no,post_fracture,callus present
+post_fracture_345,21,male,tibia,right,39.6,0,no,post_fracture,callus present
+post_fracture_346,9,male,femur,right,33.62,0,no,post_fracture,callus present
+post_fracture_347,5,male,tibia,right,24.84,7.88,yes,post_fracture,callus present
+post_fracture_348,6,male,femur,left,32.56,0,no,post_fracture,callus present
+post_fracture_349,11,male,ulna,right,27.78,0,no,post_fracture,callus present
+non_fracture_1,42,male,knee,right,73.61,0,no,non_fracture,looks normal
+non_fracture_2,42,male,knee,left,70.19,0,no,non_fracture,looks normal
+non_fracture_3,32,male,knee,left,85.79,0,no,non_fracture,looks normal
+non_fracture_4,35,male,shoulder,left,31.08,0,no,non_fracture,looks normal
+non_fracture_5,48,male,shoulder,left,21.93,0,no,non_fracture,looks normal
+non_fracture_6,38,male,shoulder,left,69.2,0,no,non_fracture,looks normal
+non_fracture_7,34,male,elbow,right,119.3,0,no,non_fracture,looks normal
+non_fracture_8,8,male,elbow,left,12.89,0,no,non_fracture,looks normal
+non_fracture_9,40,female,elbow,right,101.1,0,no,non_fracture,looks normal
+non_fracture_10,55,female,tibia,left,44.64,0,no,non_fracture,looks normal
+non_fracture_11,48,female,shoulder,left,87.31,0,no,non_fracture,looks normal
+non_fracture_12,45,male,shoulder,right,100,0,no,non_fracture,looks normal
+non_fracture_13,42,female,elbow,left,112.2,0,no,non_fracture,looks normal
+non_fracture_14,43,male,elbow,right,13.23,0,no,non_fracture,looks normal
+non_fracture_15,6,male,femur,right,44.44,0,no,non_fracture,looks normal
+non_fracture_16,6,male,shoulder,left,53.59,0,no,non_fracture,looks normal
+non_fracture_17,1,female,femur,right,19.53,0,no,non_fracture,looks normal
+non_fracture_18,5,male,femur,right,35.63,0,no,non_fracture,looks normal
+non_fracture_19,7,female,elbow,left,6.16,0,no,non_fracture,looks normal
+non_fracture_20,1,male,elbow,right,31.4,0,no,non_fracture,looks normal
+non_fracture_21,40,female,elbow,right,49.11,0,no,non_fracture,looks normal
+non_fracture_22,48,female,shoulder,left,83.71,0,no,non_fracture,looks normal
+non_fracture_23,38,male,elbow,left,57.19,0,no,non_fracture,looks normal
+non_fracture_24,11,male,femur,right,42.47,0,no,non_fracture,looks normal
+non_fracture_25,35,male,shoulder,right,96.2,0,no,non_fracture,looks normal
+non_fracture_26,55,female,elbow,right,40.77,0,no,non_fracture,looks normal
+non_fracture_27,4,female,elbow,left,57.75,0,no,non_fracture,looks normal
+non_fracture_28,3,male,elbow,right,31.47,0,no,non_fracture,looks normal
+non_fracture_29,3,male,tibia,left,33.81,0,no,non_fracture,looks normal
+non_fracture_30,7,female,hip join,right,71.04,0,no,non_fracture,looks normal
+non_fracture_31,12,male,femur,right,42.07,0,no,non_fracture,looks normal
+non_fracture_32,38,male,elbow,left,12.67,0,no,non_fracture,looks normal
+non_fracture_33,13,male,shoulder,left,89.93,0,no,non_fracture,looks normal
+non_fracture_34,40,male,elbow,right,40.76,0,no,non_fracture,looks normal
+non_fracture_35,9,male,elbow,right,13.09,0,no,non_fracture,looks normal
+non_fracture_36,7,female,elbow,left,16.75,0,no,non_fracture,looks normal
+non_fracture_37,8,female,elbow,left,82.05,0,no,non_fracture,looks normal
+non_fracture_38,7,male,elbow,right,43.07,0,no,non_fracture,looks normal
+non_fracture_39,2,male,elbow,left,55.75,0,no,non_fracture,looks normal
+non_fracture_40,22,male,elbow,right,53.61,0,no,non_fracture,looks normal
+non_fracture_41,18,male,elbow,right,119.1,0,no,non_fracture,looks normal
+non_fracture_42,14,female,femur,right,32.13,0,no,non_fracture,looks normal
+non_fracture_43,2,female,elbow,left,40.28,0,no,non_fracture,looks normal
+non_fracture_44,55,female,shoulder,right,88.55,0,no,non_fracture,looks normal
+non_fracture_45,9,male,elbow,right,7.62,0,no,non_fracture,looks normal
+non_fracture_46,1,female,elbow,left,11.38,0,no,non_fracture,looks normal
+non_fracture_47,8,male,elbow,right,18.52,0,no,non_fracture,looks normal
+non_fracture_48,9,male,elbow,right,17.98,0,no,non_fracture,looks normal
+non_fracture_49,53,male,shoulder,right,60.32,0,no,non_fracture,looks normal
+non_fracture_50,53,male,shoulder,right,60.16,0,no,non_fracture,looks normal
+non_fracture_51,54,male,shoulder,right,66.52,0,no,non_fracture,looks normal
+non_fracture_52,45,male,shoulder,right,58.21,0,no,non_fracture,looks normal
+non_fracture_53,54,male,shoulder,right,66.07,0,no,non_fracture,looks normal
+non_fracture_54,55,male,shoulder,right,75.06,0,no,non_fracture,looks normal
+non_fracture_55,55,male,shoulder,right,74.43,0,no,non_fracture,looks normal
+non_fracture_56,38,male,elbow,left,10.22,0,no,non_fracture,looks normal
+non_fracture_57,55,male,elbow,left,33.87,0,no,non_fracture,looks normal
+non_fracture_58,66,female,shoulder,right,20.81,0,no,non_fracture,looks normal
+non_fracture_59,42,female,knee,right,44.48,0,no,non_fracture,looks normal
+non_fracture_60,54,female,tibia,left,39.62,0,no,non_fracture,looks normal
+non_fracture_61,54,female,fibula,left,29.1,0,no,non_fracture,looks normal
+non_fracture_62,48,male,elbow,right,31.03,0,no,non_fracture,looks normal
+non_fracture_63,14,female,tibia,right,37.61,0,no,non_fracture,looks normal
+non_fracture_64,9,female,tibia,right,35.84,0,no,non_fracture,looks normal
+non_fracture_65,22,male,ulna,right,6.16,0,no,non_fracture,looks normal
+non_fracture_66,17,male,hip join,right,74.92,0,no,non_fracture,looks normal
+non_fracture_67,8,female,elbow,right,36.14,0,no,non_fracture,looks normal
+non_fracture_68,10,female,elbow,right,50.72,0,no,non_fracture,looks normal
+non_fracture_69,15,male,knee,right,120.1,0,no,non_fracture,looks normal
+non_fracture_70,10,male,knee,right,117.5,0,no,non_fracture,looks normal
+non_fracture_71,34,male,elbow,left,52.49,0,no,non_fracture,looks normal
+non_fracture_72,14,male,elbow,left,48.92,0,no,non_fracture,looks normal
+non_fracture_73,6,male,elbow,left,64.98,0,no,non_fracture,looks normal
+non_fracture_74,17,male,elbow,right,84.05,0,no,non_fracture,looks normal
+non_fracture_75,12,female,femur,right,43.6,0,no,non_fracture,looks normal
+non_fracture_76,4,male,elbow,right,47.45,0,no,non_fracture,looks normal
+non_fracture_77,1,female,elbow,right,23.01,0,no,non_fracture,looks normal
+non_fracture_78,3,female,elbow,right,37.12,0,no,non_fracture,looks normal
+non_fracture_79,52,female,ulna,right,6.31,0,no,non_fracture,looks normal
+non_fracture_80,6,male,elbow,right,62.44,0,no,non_fracture,looks normal
+non_fracture_81,6,male,elbow,right,31.35,0,no,non_fracture,looks normal
+non_fracture_82,6,male,femur,right,34.34,0,no,non_fracture,looks normal
+non_fracture_83,9,male,femur,right,107.7,0,no,non_fracture,looks normal
+non_fracture_84,7,male,elbow,right,43.13,0,no,non_fracture,looks normal
+non_fracture_85,38,male,elbow,right,13.23,0,no,non_fracture,looks normal
+non_fracture_86,31,male,elbow,left,98.59,0,no,non_fracture,looks normal
+non_fracture_87,31,male,elbow,left,47.36,0,no,non_fracture,looks normal
+non_fracture_88,40,male,elbow,left,51.06,0,no,non_fracture,looks normal
+non_fracture_89,8,female,hip join,right,77.13,0,no,non_fracture,looks normal
+non_fracture_90,12,male,elbow,left,38.33,0,no,non_fracture,looks normal
+non_fracture_91,10,male,elbow,left,82.02,0,no,non_fracture,looks normal
+non_fracture_92,3,male,tibia,left,26.72,0,no,non_fracture,looks normal
+non_fracture_93,20,male,carpal,left,15.22,0,no,non_fracture,looks normal
+non_fracture_94,3,male,elbow,right,31.22,0,no,non_fracture,looks normal
+non_fracture_95,9,female,knee,left,89.83,0,no,non_fracture,looks normal
+non_fracture_96,64,male,knee,left,44.4,0,no,non_fracture,looks normal
+non_fracture_97,14,male,hip join,right,39.58,0,no,non_fracture,looks normal
+non_fracture_98,8,male,tibia,right,28.81,0,no,non_fracture,looks normal
+non_fracture_99,4,female,femur,right,25.32,0,no,non_fracture,looks normal
+non_fracture_100,7,female,elbow,right,28.07,0,no,non_fracture,looks normal
+non_fracture_101,22,male,tibia,right,42.41,0,no,non_fracture,looks normal
+non_fracture_102,2,male,tibia,left,22.75,0,no,non_fracture,looks normal
+non_fracture_103,12,male,femur,left,50.59,0,no,non_fracture,looks normal
+non_fracture_104,56,male,hip join,right,48.39,0,no,non_fracture,looks normal
+non_fracture_105,6,male,hip join,right,40.43,0,no,non_fracture,looks normal
+non_fracture_106,2,female,femur,right,23.13,0,no,non_fracture,looks normal
+non_fracture_107,10,female,hip join,right,56.76,0,no,non_fracture,looks normal
+non_fracture_108,1,male,hip join,right,43.1,0,no,non_fracture,looks normal
+non_fracture_109,28,male,tibia,left,48.55,0,no,non_fracture,looks normal
+non_fracture_110,3,female,tibia,right,27.65,0,no,non_fracture,looks normal
+non_fracture_111,13,male,elbow,right,56.32,0,no,non_fracture,looks normal
+non_fracture_112,7,female,femur,left,20.37,0,no,non_fracture,looks normal
+non_fracture_113,44,male,elbow,left,82.42,0,no,non_fracture,looks normal
+non_fracture_114,3,male,femur,left,26.01,0,no,non_fracture,looks normal
+non_fracture_115,7,male,elbow,left,55.03,0,no,non_fracture,looks normal
+non_fracture_116,2,male,femur,left,24.87,0,no,non_fracture,looks normal
+non_fracture_117,2,female,femur,left,28.2,0,no,non_fracture,looks normal
+non_fracture_118,4,male,elbow,left,47.6,0,no,non_fracture,looks normal
+non_fracture_119,33,male,elbow,left,83.61,0,no,non_fracture,looks normal
+non_fracture_120,43,female,tibia,right,54.5,0,no,non_fracture,looks normal
+non_fracture_121,65,male,shoulder,left,94.46,0,no,non_fracture,looks normal
+non_fracture_122,6,male,elbow,left,57.15,0,no,non_fracture,looks normal
+non_fracture_123,45,male,metatarsal,left,23.81,0,no,non_fracture,looks normal
+non_fracture_124,33,female,elbow,left,88.37,0,no,non_fracture,looks normal
+non_fracture_125,2,male,tibia,left,18.79,0,no,non_fracture,looks normal
+non_fracture_126,1,female,humerus,right,14.64,0,no,non_fracture,looks normal
+non_fracture_127,40,male,hip join,right,74.9,0,no,non_fracture,looks normal
+non_fracture_128,2,male,femur,right,27.58,0,no,non_fracture,looks normal
+non_fracture_129,12,male,knee,right,105.1,0,no,non_fracture,looks normal
+non_fracture_130,8,male,knee,right,86.87,0,no,non_fracture,looks normal
+non_fracture_131,12,female,knee,right,103.6,0,no,non_fracture,looks normal
+non_fracture_132,40,female,knee,left,88.48,0,no,non_fracture,looks normal
+non_fracture_133,22,male,metacarpal,left,72.96,0,no,non_fracture,looks normal
+non_fracture_134,14,female,shoulder,left,75.31,0,no,non_fracture,looks normal
+non_fracture_135,2,female,tibia,right,22.83,0,no,non_fracture,looks normal
+non_fracture_136,6,male,ulna,right,12.37,0,no,non_fracture,looks normal
+non_fracture_137,2,female,tibia,right,22.83,0,no,non_fracture,looks normal
+non_fracture_138,7,male,tibia,right,52.55,0,no,non_fracture,looks normal
+non_fracture_139,8,male,metacarpal,left,56.61,0,no,non_fracture,looks normal
+non_fracture_140,14,male,femur,right,53.13,0,no,non_fracture,looks normal
+non_fracture_141,5,male,tibia,right,32.44,0,no,non_fracture,looks normal
+non_fracture_142,72,female,carpal,left,15.79,0,no,non_fracture,looks normal
+non_fracture_143,19,male,elbow,left,63.31,0,no,non_fracture,looks normal
+non_fracture_144,4,male,elbow,right,39.35,0,no,non_fracture,looks normal
+non_fracture_145,58,female,femur,right,33.63,0,no,non_fracture,looks normal
+non_fracture_146,33,female,elbow,left,39.31,0,no,non_fracture,looks normal
+non_fracture_147,4,male,humerus,left,18.61,0,no,non_fracture,looks normal
+non_fracture_148,7,female,humerus,right,31.93,0,no,non_fracture,looks normal
+non_fracture_149,45,male,metacarpal,right,25.66,0,no,non_fracture,looks normal
+non_fracture_150,7,female,elbow,left,51.21,0,no,non_fracture,looks normal
+non_fracture_151,2,male,humerus,right,18.85,0,no,non_fracture,looks normal
+non_fracture_152,11,male,elbow,left,28.1,0,no,non_fracture,looks normal
+non_fracture_153,65,male,shoulder,left,95.85,0,no,non_fracture,looks normal
+non_fracture_154,5,male,tibia,right,26,0,no,non_fracture,looks normal
+non_fracture_155,16,female,hip join,right,73.79,0,no,non_fracture,looks normal
+non_fracture_156,12,male,knee,right,108.2,0,no,non_fracture,looks normal
+non_fracture_157,9,male,tibia,right,25.03,0,no,non_fracture,looks normal
+non_fracture_158,8,male,tibia,right,32.24,0,no,non_fracture,looks normal
+non_fracture_159,12,female,fibula,right,19.26,0,no,non_fracture,looks normal
+non_fracture_160,2,female,femur,right,25.93,0,no,non_fracture,looks normal
+non_fracture_161,11,female,femur,right,32.29,0,no,non_fracture,looks normal
+non_fracture_162,6,male,tibia,right,38.66,0,no,non_fracture,looks normal
+non_fracture_163,1,female,humerus,left,15.73,0,no,non_fracture,looks normal
+non_fracture_164,22,male,metacarpal,right,22,0,no,non_fracture,looks normal
+non_fracture_165,1,female,metacarpal,right,10.67,0,no,non_fracture,looks normal
+non_fracture_166,12,male,tibia,right,43.6,0,no,non_fracture,looks normal
+non_fracture_167,8,male,femur,right,31.67,0,no,non_fracture,looks normal
+non_fracture_168,2,female,femur,right,18.9,0,no,non_fracture,looks normal
+non_fracture_169,2,male,femur,right,22.75,0,no,non_fracture,looks normal
+non_fracture_170,16,male,knee,right,79.69,0,no,non_fracture,looks normal
+non_fracture_171,18,male,tibia,right,48.3,0,no,non_fracture,looks normal
+non_fracture_172,8,male,tibia,right,31.69,0,no,non_fracture,looks normal
+non_fracture_173,2,female,femur,right,25.04,0,no,non_fracture,looks normal
+non_fracture_174,7,female,femur,right,44.1,0,no,non_fracture,looks normal
+non_fracture_175,8,male,femur,right,41,0,no,non_fracture,looks normal
+non_fracture_176,6,male,femur,right,33.76,0,no,non_fracture,looks normal
+non_fracture_177,2,female,tibia,left,25.11,0,no,non_fracture,looks normal
+non_fracture_178,11,female,femur,right,49.68,0,no,non_fracture,looks normal
+non_fracture_179,2,female,femur,right,25.07,0,no,non_fracture,looks normal
+non_fracture_180,17,male,ulna,right,20.17,0,no,non_fracture,looks normal
+non_fracture_181,2,male,tibia,left,25.83,0,no,non_fracture,looks normal
+non_fracture_182,7,male,hip join,right,56.62,0,no,non_fracture,looks normal
+non_fracture_183,3,male,tibia,left,26.02,0,no,non_fracture,looks normal
+non_fracture_184,5,female,tibia,left,28.99,0,no,non_fracture,looks normal
+non_fracture_185,5,female,tibia,left,28.73,0,no,non_fracture,looks normal
+non_fracture_186,49,male,tibia,left,60.49,0,no,non_fracture,looks normal
+non_fracture_187,10,female,humerus,right,26.99,0,no,non_fracture,looks normal
+non_fracture_188,10,female,radius,right,22.55,0,no,non_fracture,looks normal
+non_fracture_189,15,male,femur,right,68.38,0,no,non_fracture,looks normal
+non_fracture_190,15,male,femur,right,69.72,0,no,non_fracture,looks normal
+non_fracture_191,2,male,femur,right,19.54,0,no,non_fracture,looks normal
+non_fracture_192,7,male,femur,right,28.08,0,no,non_fracture,looks normal
+non_fracture_193,6,male,femur,right,31.99,0,no,non_fracture,looks normal
+non_fracture_194,7,male,femur,left,33.72,0,no,non_fracture,looks normal
+non_fracture_195,12,male,ulna,right,16.85,0,no,non_fracture,looks normal
+non_fracture_196,68,male,femur,left,69.39,0,no,non_fracture,looks normal
+non_fracture_197,14,male,humerus,left,36.61,0,no,non_fracture,looks normal
+non_fracture_198,14,male,knee,right,27.46,0,no,non_fracture,looks normal
+non_fracture_199,14,male,fibula,right,3.05,0,no,non_fracture,looks normal
+non_fracture_200,14,male,humerus,right,34.53,0,no,non_fracture,looks normal
+non_fracture_201,14,male,humerus,right,33.25,0,no,non_fracture,looks normal
+non_fracture_202,9,female,knee,left,71.78,0,no,non_fracture,looks normal
+non_fracture_203,9,female,knee,left,72.04,0,no,non_fracture,looks normal
+non_fracture_204,21,female,carpal,left,13.45,0,no,non_fracture,looks normal
+non_fracture_205,38,male,carpal,left,14.5,0,no,non_fracture,looks normal
+non_fracture_206,49,male,shoulder,right,67.89,0,no,non_fracture,looks normal
+non_fracture_207,10,female,elbow,left,26.33,0,no,non_fracture,looks normal
+non_fracture_208,5,female,knee,left,84.14,0,no,non_fracture,looks normal
+non_fracture_209,5,female,knee,left,82.55,0,no,non_fracture,looks normal
+non_fracture_210,11,male,tibia,left,28,0,no,non_fracture,looks normal
+non_fracture_211,11,male,tibia,left,70.21,0,no,non_fracture,looks normal
+non_fracture_212,28,male,tibia,left,50.11,0,no,non_fracture,looks normal
+non_fracture_213,14,male,humerus,right,34.88,0,no,non_fracture,looks normal
+non_fracture_214,8,male,hip join,left,58.21,0,no,non_fracture,looks normal
+non_fracture_215,14,female,femur,right,52.39,0,no,non_fracture,looks normal
+non_fracture_216,7,male,femur,right,22.26,0,no,non_fracture,looks normal
+non_fracture_217,2,female,femur,right,18.73,0,no,non_fracture,looks normal
+non_fracture_218,5,female,knee,left,78.16,0,no,non_fracture,looks normal
+non_fracture_219,1,male,femur,right,11.91,0,no,non_fracture,looks normal
+non_fracture_220,49,female,elbow,right,88.46,0,no,non_fracture,looks normal
+non_fracture_221,11,male,carpal,right,10.88,0,no,non_fracture,looks normal
+non_fracture_222,15,male,ulna,left,16.81,0,no,non_fracture,looks normal
+non_fracture_223,7,female,femur,right,33.57,0,no,non_fracture,looks normal
+non_fracture_224,52,female,elbow,right,87.75,0,no,non_fracture,looks normal
+non_fracture_225,6,male,femur,right,29.99,0,no,non_fracture,looks normal
+non_fracture_226,13,male,calcaneus,right,67.12,0,no,non_fracture,looks normal
+non_fracture_227,3,female,femur,right,20.67,0,no,non_fracture,looks normal
+non_fracture_228,7,male,femur,left,21.26,0,no,non_fracture,looks normal
+non_fracture_229,6,male,femur,right,33.92,0,no,non_fracture,looks normal
+non_fracture_230,11,male,femur,left,17.3,0,no,non_fracture,looks normal
+non_fracture_231,12,male,radius,left,23.05,0,no,non_fracture,looks normal
+non_fracture_232,13,female,femur,right,41.17,0,no,non_fracture,looks normal
+non_fracture_233,4,female,tibia,right,37.45,0,no,non_fracture,looks normal
+non_fracture_234,3,male,femur,right,23.29,0,no,non_fracture,looks normal
+non_fracture_235,6,male,metacarpal,left,19.9,0,no,non_fracture,looks normal
+non_fracture_236,1,female,femur,left,22.17,0,no,non_fracture,looks normal
+non_fracture_237,45,female,shoulder,left,84.67,0,no,non_fracture,looks normal
+non_fracture_238,28,female,metacarpal,right,26.81,0,no,non_fracture,looks normal
+non_fracture_239,14,male,femur,right,51.18,0,no,non_fracture,looks normal
+non_fracture_240,24,male,carpal,right,17.22,0,no,non_fracture,looks normal
+non_fracture_241,32,female,hip join,right,75.78,0,no,non_fracture,looks normal
+non_fracture_242,38,male,carpal,left,17.06,0,no,non_fracture,looks normal
+non_fracture_243,23,male,radius,right,29.1,0,no,non_fracture,looks normal
+non_fracture_244,8,male,femur,right,37.56,0,no,non_fracture,looks normal
+non_fracture_245,4,male,ulna,left,14.53,0,no,non_fracture,looks normal
+non_fracture_246,25,male,carpal,right,18.43,0,no,non_fracture,looks normal
+non_fracture_247,13,female,elbow,right,75.67,0,no,non_fracture,looks normal
+non_fracture_248,9,male,femur,right,26.04,0,no,non_fracture,looks normal
+non_fracture_249,3,female,femur,right,21.19,0,no,non_fracture,looks normal
+non_fracture_250,13,female,femur,right,42.31,0,no,non_fracture,looks normal
+non_fracture_251,2,male,femur,right,27.12,0,no,non_fracture,looks normal
+non_fracture_252,2,male,femur,right,27.09,0,no,non_fracture,looks normal
+non_fracture_253,33,female,elbow,left,94.51,0,no,non_fracture,looks normal
+non_fracture_254,6,female,femur,right,27.56,0,no,non_fracture,looks normal
+non_fracture_255,17,male,ulna,right,20.56,0,no,non_fracture,looks normal
+non_fracture_256,11,male,femur,right,32.87,0,no,non_fracture,looks normal
+non_fracture_257,5,female,femur,right,29.92,0,no,non_fracture,looks normal
+non_fracture_258,4,female,ulna,left,15.5,0,no,non_fracture,looks normal
+non_fracture_259,4,male,femur,right,25.39,0,no,non_fracture,looks normal
+non_fracture_260,35,female,shoulder,left,98.52,0,no,non_fracture,looks normal
+non_fracture_261,33,female,carpal,right,14.56,0,no,non_fracture,looks normal
+non_fracture_262,3,male,femur,right,36.47,0,no,non_fracture,looks normal
+non_fracture_263,17,female,femur,right,41.81,0,no,non_fracture,looks normal
+non_fracture_264,3,female,femur,left,27.24,0,no,non_fracture,looks normal
+non_fracture_265,2,male,elbow,left,44.77,0,no,non_fracture,looks normal
+non_fracture_266,71,male,metacarpal,right,24.41,0,no,non_fracture,looks normal
+non_fracture_267,37,female,fibula,right,21.31,0,no,non_fracture,looks normal
+non_fracture_268,14,male,ulna,right,19.1,0,no,non_fracture,looks normal
+non_fracture_269,2,female,femur,right,24.39,0,no,non_fracture,looks normal
+non_fracture_270,70,female,radius,left,24.29,0,no,non_fracture,looks normal
+non_fracture_271,4,male,femur,right,27.03,0,no,non_fracture,looks normal
+non_fracture_272,9,female,humerus,right,26.79,0,no,non_fracture,looks normal
+non_fracture_273,20,male,carpal,left,15.83,0,no,non_fracture,looks normal
+non_fracture_274,17,female,carpal,left,14.16,0,no,non_fracture,looks normal
+non_fracture_275,2,female,femur,right,23.19,0,no,non_fracture,looks normal
+non_fracture_276,8,female,tibia,left,35.11,0,no,non_fracture,looks normal
+non_fracture_277,10,male,femur,right,39.48,0,no,non_fracture,looks normal
+non_fracture_278,37,male,femur,right,56.36,0,no,non_fracture,looks normal
+non_fracture_279,38,female,tibia,right,39.17,0,no,non_fracture,looks normal
+non_fracture_280,1,male,femur,right,19.81,0,no,non_fracture,looks normal
+non_fracture_281,8,male,femur,right,34.15,0,no,non_fracture,looks normal
+non_fracture_282,2,male,femur,right,28.67,0,no,non_fracture,looks normal
+non_fracture_283,5,female,femur,right,29.04,0,no,non_fracture,looks normal
+non_fracture_284,6,male,femur,right,35.64,0,no,non_fracture,looks normal
+non_fracture_285,2,male,femur,right,26.98,0,no,non_fracture,looks normal
+non_fracture_286,4,male,femur,right,32.76,0,no,non_fracture,looks normal
+non_fracture_287,3,male,hip join,right,41.81,0,no,non_fracture,looks normal
+non_fracture_288,6,female,femur,right,38.91,0,no,non_fracture,looks normal
+non_fracture_289,14,male,carpal,right,13.25,0,no,non_fracture,looks normal
+non_fracture_290,2,female,femur,right,25.06,0,no,non_fracture,looks normal
+non_fracture_291,2,male,femur,right,21.63,0,no,non_fracture,looks normal
+non_fracture_292,3,male,femur,right,23.29,0,no,non_fracture,looks normal
+non_fracture_293,5,female,carpal,left,13.65,0,no,non_fracture,looks normal
+non_fracture_294,14,male,femur,right,52.92,0,no,non_fracture,looks normal
+non_fracture_295,5,male,femur,right,24.92,0,no,non_fracture,looks normal
+non_fracture_296,11,female,femur,right,17.9,0,no,non_fracture,looks normal
+non_fracture_297,14,male,femur,right,27.2,0,no,non_fracture,looks normal
+non_fracture_298,14,male,ulna,right,29.77,0,no,non_fracture,looks normal
+non_fracture_299,6,male,femur,right,28,0,no,non_fracture,looks normal
+non_fracture_300,13,male,hip join,right,80.9,0,no,non_fracture,looks normal
+non_fracture_301,5,male,femur,right,26.96,0,no,non_fracture,looks normal
+non_fracture_302,20,male,carpal,left,8.02,0,no,non_fracture,looks normal
+non_fracture_303,4,male,humerus,left,23.65,0,no,non_fracture,looks normal
+non_fracture_304,2,male,femur,left,26.25,0,no,non_fracture,looks normal
+non_fracture_305,68,female,metacarpal,left,21.21,0,no,non_fracture,looks normal
+non_fracture_306,6,female,femur,right,26.86,0,no,non_fracture,looks normal
+non_fracture_307,10,female,elbow,left,64.15,0,no,non_fracture,looks normal
+non_fracture_308,23,male,tibia,right,55.61,0,no,non_fracture,looks normal
+non_fracture_309,3,female,calcaneus,right,35.1,0,no,non_fracture,looks normal
+non_fracture_310,12,male,radius,right,20.17,0,no,non_fracture,looks normal
+non_fracture_311,12,male,radius,right,20.73,0,no,non_fracture,looks normal
+non_fracture_312,5,female,tibia,left,27.36,0,no,non_fracture,looks normal
+non_fracture_313,52,male,tibia,left,55.11,0,no,non_fracture,looks normal
+non_fracture_314,10,male,hip join,right,80.35,0,no,non_fracture,looks normal
+non_fracture_315,6,male,tibia,left,29.24,0,no,non_fracture,looks normal
+non_fracture_316,7,male,femur,right,32.09,0,no,non_fracture,looks normal
+non_fracture_317,68,male,knee,right,109.2,0,no,non_fracture,looks normal
+non_fracture_318,9,female,femur,right,24.09,0,no,non_fracture,looks normal
+non_fracture_319,1,male,femur,right,26.99,0,no,non_fracture,looks normal
+non_fracture_320,2,female,femur,right,23.84,0,no,non_fracture,looks normal
+non_fracture_321,2,male,femur,right,24.87,0,no,non_fracture,looks normal
+non_fracture_322,30,female,radius,right,23.52,0,no,non_fracture,looks normal
+non_fracture_323,3,female,radius,left,15.82,0,no,non_fracture,looks normal
+non_fracture_324,37,female,shoulder,left,79.6,0,no,non_fracture,looks normal
+non_fracture_325,9,male,femur,right,35.45,0,no,non_fracture,looks normal
+non_fracture_326,13,female,femur,right,41.01,0,no,non_fracture,looks normal
+non_fracture_327,1,male,femur,right,15.77,0,no,non_fracture,looks normal
+non_fracture_328,37,male,ulna,right,25.34,0,no,non_fracture,looks normal
+non_fracture_329,2,male,femur,right,24.1,0,no,non_fracture,looks normal
+non_fracture_330,9,male,hip join,right,51.7,0,no,non_fracture,looks normal
+non_fracture_331,2,male,femur,right,20.22,0,no,non_fracture,looks normal
+non_fracture_332,13,male,hip join,right,95.23,0,no,non_fracture,looks normal
+non_fracture_333,6,female,femur,right,25.03,0,no,non_fracture,looks normal
+non_fracture_334,23,male,radius,right,26.24,0,no,non_fracture,looks normal
+non_fracture_335,55,female,hip join,right,80.92,0,no,non_fracture,looks normal
+non_fracture_336,4,female,ulna,right,18.05,0,no,non_fracture,looks normal
+non_fracture_337,71,male,calcaneus,right,96.4,0,no,non_fracture,looks normal
+non_fracture_338,6,male,femur,right,26.34,0,no,non_fracture,looks normal
+non_fracture_339,34,female,calcaneus,left,66.78,0,no,non_fracture,looks normal
+non_fracture_340,1,male,elbow,left,34.09,0,no,non_fracture,looks normal
+non_fracture_341,11,male,elbow,left,43.45,0,no,non_fracture,looks normal
+non_fracture_342,14,male,ulna,right,16.55,0,no,non_fracture,looks normal
+non_fracture_343,4,male,tibia,right,25.29,0,no,non_fracture,looks normal
+non_fracture_344,7,female,femur,right,37.15,0,no,non_fracture,looks normal
+non_fracture_345,14,male,ulna,right,22.93,0,no,non_fracture,looks normal
+non_fracture_346,2,female,tibia,right,23.03,0,no,non_fracture,looks normal
+non_fracture_347,16,female,elbow,left,103.2,0,no,non_fracture,looks normal
+non_fracture_348,26,male,hip join,right,104.32,0,no,non_fracture,looks normal
+non_fracture_349,11,male,tibia,left,40.29,0,no,non_fracture,looks normal
+non_fracture_350,2,male,femur,right,24.15,0,no,non_fracture,looks normal
+non_fracture_351,4,male,femur,right,20.9,0,no,non_fracture,looks normal
+non_fracture_352,8,male,femur,right,33.92,0,no,non_fracture,looks normal
+non_fracture_353,4,male,femur,right,20.93,0,no,non_fracture,looks normal
+non_fracture_354,11,male,femur,right,41.98,0,no,non_fracture,looks normal
+non_fracture_355,3,male,femur,right,36.59,0,no,non_fracture,looks normal
+non_fracture_356,10,female,femur,right,41.08,0,no,non_fracture,looks normal
+non_fracture_357,16,female,knee,right,130.17,0,no,non_fracture,looks normal
+non_fracture_358,13,male,hip join,right,75.25,0,no,non_fracture,looks normal
+non_fracture_359,14,male,femur,right,48.49,0,no,non_fracture,looks normal
+non_fracture_360,3,male,femur,right,30.83,0,no,non_fracture,looks normal
+non_fracture_361,3,male,femur,right,30.42,0,no,non_fracture,looks normal
+non_fracture_362,15,male,hip join,right,103.81,0,no,non_fracture,looks normal
+non_fracture_363,35,female,ulna,right,22.68,0,no,non_fracture,looks normal
+non_fracture_364,12,male,femur,right,40.49,0,no,non_fracture,looks normal
+non_fracture_365,81,female,hip join,right,90.5,0,no,non_fracture,looks normal
+non_fracture_366,65,female,hip join,right,83.78,0,no,non_fracture,looks normal
+non_fracture_367,6,female,tibia,right,30.95,0,no,non_fracture,looks normal
+non_fracture_368,4,male,hip join,right,88.05,0,no,non_fracture,looks normal
+non_fracture_369,17,male,knee,right,131.1,0,no,non_fracture,looks normal
+non_fracture_370,17,male,knee,right,130.7,0,no,non_fracture,looks normal
+non_fracture_371,7,female,femur,right,37.99,0,no,non_fracture,looks normal
+non_fracture_372,7,male,femur,right,40.49,0,no,non_fracture,looks normal
+non_fracture_373,9,male,ulna,left,4.64,0,no,non_fracture,looks normal
+non_fracture_374,15,male,elbow,left,76.9,0,no,non_fracture,looks normal
+non_fracture_375,26,male,humerus,right,99.04,0,no,non_fracture,looks normal
+non_fracture_376,18,female,hip join,right,93.35,0,no,non_fracture,looks normal
+non_fracture_377,63,female,humerus,left,42.05,0,no,non_fracture,looks normal
+non_fracture_378,3,female,radius,left,14.52,0,no,non_fracture,looks normal
+non_fracture_379,6,male,femur,right,37.39,0,no,non_fracture,looks normal
+non_fracture_380,10,male,tibia,right,46.23,0,no,non_fracture,looks normal
+non_fracture_381,15,male,hip join,right,99.58,0,no,non_fracture,looks normal
+non_fracture_382,65,female,carpal,right,13.73,0,no,non_fracture,looks normal
+non_fracture_383,12,male,femur,right,37.65,0,no,non_fracture,looks normal
+non_fracture_384,14,female,tibia,right,32.91,0,no,non_fracture,looks normal
+non_fracture_385,55,female,hip join,right,90.54,0,no,non_fracture,looks normal
+non_fracture_386,67,female,humerus,left,39.99,0,no,non_fracture,looks normal
+non_fracture_387,18,female,hip join,right,88.23,0,no,non_fracture,looks normal
+non_fracture_388,56,male,hip join,right,49.45,0,no,non_fracture,looks normal
+non_fracture_389,17,male,femur,right,56.78,0,no,non_fracture,looks normal
+non_fracture_390,4,male,ulna,left,13.8,0,no,non_fracture,looks normal
+non_fracture_391,9,male,elbow,left,72.15,0,no,non_fracture,looks normal
+non_fracture_392,11,female,hip join,right,81.75,0,no,non_fracture,looks normal
+non_fracture_393,6,male,radius,left,14.91,0,no,non_fracture,looks normal
+non_fracture_394,44,male,carpal,right,15.32,0,no,non_fracture,looks normal
+non_fracture_395,7,male,hip join,right,69.14,0,no,non_fracture,looks normal
+non_fracture_396,48,male,carpal,right,15.13,0,no,non_fracture,looks normal
+non_fracture_397,14,male,carpal,right,14.16,0,no,non_fracture,looks normal
+non_fracture_398,59,male,shoulder,left,102.41,0,no,non_fracture,looks normal
+non_fracture_399,18,female,femur,right,53.04,0,no,non_fracture,looks normal
+non_fracture_400,6,male,femur,right,29.6,0,no,non_fracture,looks normal
+non_fracture_401,57,female,hip join,right,92.89,0,no,non_fracture,looks normal
+non_fracture_402,7,male,femur,right,33.82,0,no,non_fracture,looks normal
+non_fracture_403,11,male,carpal,right,13.5,0,no,non_fracture,looks normal
+non_fracture_404,12,male,carpal,right,17.23,0,no,non_fracture,looks normal
+non_fracture_405,9,male,elbow,left,8.47,0,no,non_fracture,looks normal
+non_fracture_406,15,male,elbow,right,81.33,0,no,non_fracture,looks normal
+non_fracture_407,38,male,elbow,right,28.09,0,no,non_fracture,looks normal
+non_fracture_408,35,male,elbow,left,35.48,0,no,non_fracture,looks normal
+non_fracture_409,51,male,shoulder,left,24.82,0,no,non_fracture,looks normal
+non_fracture_410,6,male,femur,right,29,0,no,non_fracture,looks normal
+non_fracture_411,9,male,hip join,right,61.88,0,no,non_fracture,looks normal
+non_fracture_412,62,male,knee,left,112.83,0,no,non_fracture,looks normal
+non_fracture_413,13,male,elbow,right,23.73,0,no,non_fracture,looks normal
+non_fracture_414,23,female,radius,right,19.59,0,no,non_fracture,looks normal
+non_fracture_415,15,female,elbow,right,102.33,0,no,non_fracture,looks normal
+non_fracture_416,23,female,ulna,right,24.06,0,no,non_fracture,looks normal
+non_fracture_417,1,male,ulna,left,14.51,0,no,non_fracture,looks normal
+non_fracture_418,25,female,femur,right,39.42,0,no,non_fracture,looks normal
+non_fracture_419,8,male,knee,left,117.48,0,no,non_fracture,looks normal
+non_fracture_420,12,male,femur,right,36.66,0,no,non_fracture,looks normal
+non_fracture_421,7,female,elbow,right,5622,0,no,non_fracture,looks normal
+non_fracture_422,10,male,femur,right,32.66,0,no,non_fracture,looks normal
+non_fracture_423,12,male,knee,right,126.11,0,no,non_fracture,looks normal
+non_fracture_424,33,male,knee,right,120.53,0,no,non_fracture,looks normal
+non_fracture_425,76,female,knee,left,114.87,0,no,non_fracture,looks normal
+non_fracture_426,15,male,elbow,left,52.48,0,no,non_fracture,looks normal
+non_fracture_427,55,female,shoulder,right,29.36,0,no,non_fracture,looks normal
+non_fracture_428,17,male,knee,right,51.39,0,no,non_fracture,looks normal
+non_fracture_429,11,male,carpal,right,10.28,0,no,non_fracture,looks normal
+non_fracture_430,76,male,hip join,right,101.43,0,no,non_fracture,looks normal
+non_fracture_431,14,female,tibia,right,40.3,0,no,non_fracture,looks normal
+non_fracture_432,11,male,knee,left,132.02,0,no,non_fracture,looks normal
+non_fracture_433,17,male,radius,right,22.9,0,no,non_fracture,looks normal
+non_fracture_434,32,female,knee,left,118.42,0,no,non_fracture,looks normal
+non_fracture_435,11,male,carpal,right,13.57,0,no,non_fracture,looks normal
+non_fracture_436,7,male,elbow,right,46.92,0,no,non_fracture,looks normal
+non_fracture_437,13,female,hip join,right,89.23,0,no,non_fracture,looks normal
+non_fracture_438,12,male,radius,left,16.02,0,no,non_fracture,looks normal
+non_fracture_439,6,male,elbow,right,64.28,0,no,non_fracture,looks normal
+non_fracture_440,11,male,tibia,left,46.11,0,no,non_fracture,looks normal
+non_fracture_441,15,female,hip join,left,89.37,0,no,non_fracture,looks normal
+non_fracture_442,5,male,elbow,right,36.94,0,no,non_fracture,looks normal
+non_fracture_443,37,male,knee,right,129.4,0,no,non_fracture,looks normal
+non_fracture_444,2,male,radius,left,11.97,0,no,non_fracture,looks normal
+non_fracture_445,8,male,tibia,left,40.61,0,no,non_fracture,looks normal
+non_fracture_446,20,female,knee,left,102.42,0,no,non_fracture,looks normal
+non_fracture_447,20,male,knee,left,50.65,0,no,non_fracture,looks normal
+non_fracture_448,10,male,knee,left,99.61,0,no,non_fracture,looks normal
+non_fracture_449,8,female,carpal,right,5.82,0,no,non_fracture,looks normal
+non_fracture_450,11,female,femur,right,43.69,0,no,non_fracture,looks normal
+non_fracture_451,4,male,elbow,left,58.69,0,no,non_fracture,looks normal
+non_fracture_452,18,male,ulna,right,17.37,0,no,non_fracture,looks normal
+non_fracture_453,3,male,elbow,left,31.24,0,no,non_fracture,looks normal
+non_fracture_454,13,male,femur,right,47.49,0,no,non_fracture,looks normal
+non_fracture_455,39,female,elbow,right,42.3,0,no,non_fracture,looks normal
+non_fracture_456,14,male,carpal,right,12.18,0,no,non_fracture,looks normal
+non_fracture_457,13,female,carpal,left,14.27,0,no,non_fracture,looks normal
+non_fracture_458,23,male,tibia,left,73.62,0,no,non_fracture,looks normal
+non_fracture_459,11,male,femur,right,35.3,0,no,non_fracture,looks normal
+non_fracture_460,9,male,hip join,right,54.53,0,no,non_fracture,looks normal
+non_fracture_461,9,male,carpal,left,12.55,0,no,non_fracture,looks normal
+non_fracture_462,9,male,femur,right,28.64,0,no,non_fracture,looks normal
+non_fracture_463,12,female,knee,left,75.22,0,no,non_fracture,looks normal
+non_fracture_464,17,female,metacarpal,left,20.97,0,no,non_fracture,looks normal
+non_fracture_465,6,female,hip join,right,70.89,0,no,non_fracture,looks normal
+non_fracture_466,1,male,ulna,right,12.71,0,no,non_fracture,looks normal
+non_fracture_467,8,male,radius,left,17.01,0,no,non_fracture,looks normal
+non_fracture_468,48,male,knee,left,94.03,0,no,non_fracture,looks normal
+non_fracture_469,48,male,knee,left,94.45,0,no,non_fracture,looks normal
+non_fracture_470,45,male,femur,right,69.53,0,no,non_fracture,looks normal
+non_fracture_471,17,female,knee,left,85.66,0,no,non_fracture,looks normal
+non_fracture_472,9,male,elbow,right,23.4,0,no,non_fracture,looks normal
+non_fracture_473,52,male,hip join,right,98.05,0,no,non_fracture,looks normal
+non_fracture_474,5,female,elbow,right,42.54,0,no,non_fracture,looks normal
+non_fracture_475,11,female,tibia,right,45.27,0,no,non_fracture,looks normal
+non_fracture_476,8,male,elbow,left,28.08,0,no,non_fracture,looks normal
+non_fracture_477,10,male,hip join,right,89.01,0,no,non_fracture,looks normal
+non_fracture_478,11,female,femur,right,41.9,0,no,non_fracture,looks normal
+non_fracture_479,10,female,femur,right,52.72,0,no,non_fracture,looks normal
+non_fracture_480,3,female,elbow,left,57.53,0,no,non_fracture,looks normal
+non_fracture_481,8,female,carpal,right,18.1,0,no,non_fracture,looks normal
+non_fracture_482,6,female,knee,right,67.1,0,no,non_fracture,looks normal
+non_fracture_483,8,female,hip join,right,40,0,no,non_fracture,looks normal
+non_fracture_484,16,male,femur,right,53.01,0,no,non_fracture,looks normal
+non_fracture_485,3,female,carpal,right,8.2,0,no,non_fracture,looks normal
+non_fracture_486,35,male,elbow,right,19.1,0,no,non_fracture,looks normal
+non_fracture_487,11,female,femur,right,37.04,0,no,non_fracture,looks normal
+non_fracture_488,11,male,knee,right,70.9,0,no,non_fracture,looks normal
+non_fracture_489,2,male,carpal,left,8.48,0,no,non_fracture,looks normal
+non_fracture_490,8,female,carpal,right,11.15,0,no,non_fracture,looks normal
+non_fracture_491,32,male,carpal,left,16.01,0,no,non_fracture,looks normal
+non_fracture_492,6,male,tibia,left,27.36,0,no,non_fracture,looks normal
+non_fracture_493,12,male,carpal,right,15.36,0,no,non_fracture,looks normal
+non_fracture_494,3,male,radius,left,12.73,0,no,non_fracture,looks normal
+non_fracture_495,2,female,radius,left,11.57,0,no,non_fracture,looks normal
+non_fracture_496,15,female,tibia,right,46.23,0,no,non_fracture,looks normal
+non_fracture_497,10,male,knee,right,84.23,0,no,non_fracture,looks normal
+non_fracture_498,60,female,knee,left,101.62,0,no,non_fracture,looks normal
+non_fracture_499,48,male,knee,left,78.34,0,no,non_fracture,looks normal
+non_fracture_500,11,female,ulna,right,18.45,0,no,non_fracture,looks normal
+non_fracture_501,14,female,ulna,left,17.36,0,no,non_fracture,looks normal
+non_fracture_502,16,female,femur,right,40.62,0,no,non_fracture,looks normal
+non_fracture_503,32,male,tibia,right,52.43,0,no,non_fracture,looks normal
+non_fracture_504,8,male,carpal,left,13.32,0,no,non_fracture,looks normal
+non_fracture_505,15,female,tibia,right,47.34,0,no,non_fracture,looks normal
+non_fracture_506,8,female,carpal,left,8.63,0,no,non_fracture,looks normal
+non_fracture_507,9,male,radius,left,11.17,0,no,non_fracture,looks normal
+non_fracture_508,6,male,ulna,right,15.87,0,no,non_fracture,looks normal
+non_fracture_509,12,female,knee,right,75.9,0,no,non_fracture,looks normal
+non_fracture_510,11,female,elbow,right,42.5,0,no,non_fracture,looks normal
+non_fracture_511,35,male,elbow,right,45.37,0,no,non_fracture,looks normal
+non_fracture_512,14,female,femur,right,37.86,0,no,non_fracture,looks normal
+non_fracture_513,14,male,hip join,right,100.18,0,no,non_fracture,looks normal
+non_fracture_514,32,male,carpal,left,15.5,0,no,non_fracture,looks normal
+non_fracture_515,14,female,radius,left,17.33,0,no,non_fracture,looks normal
+non_fracture_516,34,male,knee,left,153.98,0,no,non_fracture,looks normal
+non_fracture_517,9,male,femur,right,43.81,0,no,non_fracture,looks normal
+non_fracture_518,81,female,elbow,left,57.95,0,no,non_fracture,looks normal
+non_fracture_519,58,male,hip join,right,82.16,0,no,non_fracture,looks normal
+non_fracture_520,11,female,elbow,left,42.81,0,no,non_fracture,looks normal
+non_fracture_521,1,male,elbow,right,46.55,0,no,non_fracture,looks normal
+non_fracture_522,9,male,femur,right,46.55,0,no,non_fracture,looks normal
+non_fracture_523,26,male,knee,left,113.5,0,no,non_fracture,looks normal
+non_fracture_524,23,male,tibia,left,78.29,0,no,non_fracture,looks normal
+non_fracture_525,11,male,knee,right,127.35,0,no,non_fracture,looks normal
+non_fracture_526,14,female,tibia,left,34.79,0,no,non_fracture,looks normal
+non_fracture_527,14,male,knee,right,88.56,0,no,non_fracture,looks normal
+non_fracture_528,16,male,femur,right,35.76,0,no,non_fracture,looks normal
+non_fracture_529,13,female,elbow,left,32.19,0,no,non_fracture,looks normal
+non_fracture_530,15,female,femur,left,65.78,0,no,non_fracture,looks normal
+non_fracture_531,24,male,carpal,right,15.53,0,no,non_fracture,looks normal
+non_fracture_532,5,male,elbow,right,34.44,0,no,non_fracture,looks normal
+non_fracture_533,19,male,femur,right,52.14,0,no,non_fracture,looks normal
+non_fracture_534,15,female,femur,right,49.3,0,no,non_fracture,looks normal
+non_fracture_535,2,male,elbow,left,35.78,0,no,non_fracture,looks normal
+non_fracture_536,61,male,hip join,right,104.22,0,no,non_fracture,looks normal
+non_fracture_537,11,male,femur,right,31.77,0,no,non_fracture,looks normal
+non_fracture_538,75,male,tibia,left,62.38,0,no,non_fracture,looks normal
+non_fracture_539,11,male,elbow,left,61.86,0,no,non_fracture,looks normal
+non_fracture_540,14,female,knee,left,101.21,0,no,non_fracture,looks normal
+non_fracture_541,3,female,elbow,right,37.01,0,no,non_fracture,looks normal
+non_fracture_542,4,male,elbow,left,39.06,0,no,non_fracture,looks normal
+non_fracture_543,3,male,elbow,right,43.98,0,no,non_fracture,looks normal
+non_fracture_544,7,female,elbow,right,16.03,0,no,non_fracture,looks normal
+non_fracture_545,8,male,elbow,left,90.52,0,no,non_fracture,looks normal
+non_fracture_546,12,female,carpal,left,16.26,0,no,non_fracture,looks normal
+non_fracture_547,73,female,hip join,right,70.76,0,no,non_fracture,looks normal
+non_fracture_548,37,male,hip join,right,99.99,0,no,non_fracture,looks normal
+non_fracture_549,19,male,hip join,left,91.01,0,no,non_fracture,looks normal
+non_fracture_550,48,male,hip join,right,89.89,0,no,non_fracture,looks normal
+non_fracture_551,55,male,carpal,left,19.02,0,no,non_fracture,looks normal
+non_fracture_552,28,male,hip join,right,74.82,0,no,non_fracture,looks normal
+non_fracture_553,9,male,elbow,right,97.24,0,no,non_fracture,looks normal
+non_fracture_554,13,male,elbow,left,37.98,0,no,non_fracture,looks normal
+non_fracture_555,22,male,elbow,right,90.36,0,no,non_fracture,looks normal
+non_fracture_556,35,female,humerus,right,41.42,0,no,non_fracture,looks normal
+non_fracture_557,25,female,tibia,left,43.6,0,no,non_fracture,looks normal
+non_fracture_558,13,male,elbow,left,87.79,0,no,non_fracture,looks normal
+non_fracture_559,24,male,carpal,left,16.84,0,no,non_fracture,looks normal
+non_fracture_560,9,female,tibia,left,33.76,0,no,non_fracture,looks normal
+non_fracture_561,45,female,elbow,right,46.96,0,no,non_fracture,looks normal
+non_fracture_562,12,female,carpal,right,13.8,0,no,non_fracture,looks normal
+non_fracture_563,13,female,knee,right,121.52,0,no,non_fracture,looks normal
+non_fracture_564,25,male,radius,right,48.01,0,no,non_fracture,looks normal
+non_fracture_565,25,female,tibia,left,45.27,0,no,non_fracture,looks normal
+non_fracture_566,4,male,radius,left,18.31,0,no,non_fracture,looks normal
+non_fracture_567,11,female,knee,left,125.12,0,no,non_fracture,looks normal
+non_fracture_568,5,male,elbow,left,65.11,0,no,non_fracture,looks normal
+non_fracture_569,45,female,radius,right,17.93,0,no,non_fracture,looks normal
+non_fracture_570,7,male,elbow,left,81.27,0,no,non_fracture,looks normal
+non_fracture_571,52,male,radius,left,21.38,0,no,non_fracture,looks normal
+non_fracture_572,27,female,elbow,right,4123,0,no,non_fracture,looks normal
+non_fracture_573,30,female,elbow,left,49.98,0,no,non_fracture,looks normal
+non_fracture_574,27,female,radius,right,40.92,0,no,non_fracture,looks normal
+non_fracture_575,11,female,tibia,left,39.9,0,no,non_fracture,looks normal
+non_fracture_576,19,male,femur,right,61.61,0,no,non_fracture,looks normal
