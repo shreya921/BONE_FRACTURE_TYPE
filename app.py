@@ -4,6 +4,14 @@ app.py
 
 # app.py
 import os
+import gdown
+
+MODEL_PATH = "cnn_model.keras"
+
+if not os.path.exists(MODEL_PATH):
+    file_id = "1DeMxMip6IEsOesnjs93W-yMLasTYaXlh"
+    url = f"https://drive.google.com/uc?id={file_id}"
+    gdown.download(url, MODEL_PATH, quiet=False)
 import numpy as np
 import pandas as pd
 import joblib
