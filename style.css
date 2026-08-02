@@ -1,0 +1,158 @@
+/* ===========================
+   ORTHOVISION AI THEME
+=========================== */
+
+body,
+.gradio-container {
+    font-family: "Segoe UI", sans-serif;
+    background: linear-gradient(135deg,#eef7ff,#dbeeff);
+    color:#1b2a41;
+}
+
+/* HERO SECTION */
+
+.hero{
+    background:linear-gradient(135deg,#1565C0,#42A5F5);
+    color:white;
+    padding:45px;
+    border-radius:20px;
+    text-align:center;
+    margin-bottom:25px;
+    box-shadow:0 10px 30px rgba(0,0,0,.15);
+}
+
+.hero h1{
+    font-size:42px;
+    margin-bottom:10px;
+}
+
+.hero h3{
+    font-weight:400;
+}
+
+.hero p{
+    opacity:.95;
+}
+
+/* CARDS */
+
+.gr-box,
+.gr-group{
+    background:white !important;
+    border-radius:18px !important;
+    padding:18px !important;
+    border:none !important;
+    box-shadow:0 8px 24px rgba(0,0,0,.08);
+}
+
+/* BUTTON */
+
+button{
+    background:#1565C0 !important;
+    color:white !important;
+    border:none !important;
+    border-radius:12px !important;
+    font-size:18px !important;
+    padding:12px 25px !important;
+    transition:.3s;
+}
+
+button:hover{
+    background:#0D47A1 !important;
+    transform:translateY(-2px);
+}
+
+/* INPUTS */
+
+input,
+textarea,
+select{
+    border-radius:10px !important;
+    border:1px solid #cfd8dc !important;
+}
+
+input:focus,
+textarea:focus,
+select:focus{
+    border:2px solid #2196F3 !important;
+}
+
+/* IMAGE */
+
+img{
+    border-radius:15px;
+}
+
+/* LABELS */
+
+label{
+    font-weight:600 !important;
+}
+
+/* RESULT BOXES */
+
+.output-class{
+    background:#E3F2FD;
+    border-left:5px solid #1565C0;
+    padding:15px;
+    border-radius:12px;
+}
+
+/* STAT CARDS */
+
+.stat-card{
+    background:white;
+    padding:25px;
+    border-radius:18px;
+    text-align:center;
+    box-shadow:0 6px 20px rgba(0,0,0,.08);
+    transition:.3s;
+}
+
+.stat-card:hover{
+    transform:translateY(-5px);
+}
+
+.stat-card h2{
+    color:#1565C0;
+    font-size:34px;
+    margin:10px 0;
+}
+
+.stat-card p{
+    color:#666;
+}
+
+/* FOOTER */
+
+.footer{
+    text-align:center;
+    margin-top:40px;
+    color:#666;
+    padding:20px;
+}
+
+/* SCROLLBAR */
+
+::-webkit-scrollbar{
+    width:10px;
+}
+
+::-webkit-scrollbar-thumb{
+    background:#90CAF9;
+    border-radius:10px;
+}
+
+/* RESPONSIVE */
+
+@media(max-width:768px){
+
+.hero h1{
+font-size:30px;
+}
+
+button{
+width:100%;
+}
+
+}
