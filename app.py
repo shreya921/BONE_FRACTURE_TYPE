@@ -16,7 +16,7 @@ from PIL import Image
 from tensorflow.keras.models import load_model
 
 # ---------- Load Models ----------
-cnn_model = load_model("cnn_model.keras")
+cnn_model = None
 xgb_model = joblib.load("xgb_model.pkl")
 
 bone_types = [
@@ -51,6 +51,11 @@ def preprocess_metadata(age, gender, left_right, bone_width,
     return np.array(metadata).reshape(1,-1)
 
 def predict(image,age,gender,left_right,bone_width,fracture_gap,gap_visibility,bone_type):
+    global cnn_model
+
+if cnn_model is None:
+    print("Loading CNN model...")
+    cnn_model = load_model(MODEL_PATH)
     img=preprocess_image(image)
     meta=preprocess_metadata(age,gender,left_right,bone_width,fracture_gap,gap_visibility,bone_type)
     cnn_prob=cnn_model.predict(img,verbose=0)
