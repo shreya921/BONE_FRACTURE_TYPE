@@ -53,7 +53,7 @@ def preprocess_metadata(age, gender, left_right, bone_width,
 def predict(image,age,gender,left_right,bone_width,fracture_gap,gap_visibility,bone_type):
     global cnn_model
 
-if cnn_model is None:
+    if cnn_model is None:
     print("Loading CNN model...")
     cnn_model = load_model(MODEL_PATH)
     img=preprocess_image(image)
